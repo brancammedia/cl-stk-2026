@@ -88,6 +88,7 @@ def parse_clearance_csv(csv_content):
     # Col 8: Chicago
     # Col 9: Total
     # Col 10: Notes
+    # Col 11: Spec URL
 
     products = []
     current_category = ""
@@ -116,6 +117,13 @@ def parse_clearance_csv(csv_content):
 
         # Product row: has SKU
         if sku_col:
+            # Get spec URL from column 11, filter out #N/A and empty values
+            spec_url = ""
+            if len(row) > 11:
+                raw_spec = row[11].strip()
+                if raw_spec and raw_spec != "#N/A" and raw_spec.startswith("http"):
+                    spec_url = raw_spec
+
             product = {
                 'sku': sku_col,
                 'description': row[2].strip() if len(row) > 2 else "",
@@ -129,6 +137,7 @@ def parse_clearance_csv(csv_content):
                 'chicago': parse_int(row[8] if len(row) > 8 else "0"),
                 'total': parse_int(row[9] if len(row) > 9 else "0"),
                 'notes': row[10].strip() if len(row) > 10 else "",
+                'spec_url': spec_url,
             }
             products.append(product)
 

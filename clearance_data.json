@@ -1,0 +1,72 @@
+{
+  "updated_at": "2026-01-23T17:00:00Z",
+  "updated_at_pacific": "January 23, 2026",
+  "tabs": {
+    "clearance": {
+      "name": "Clearance Stock",
+      "products": [
+        {
+          "sku": "PT-AL2-200W-50K",
+          "description": "Area Light",
+          "wattage": "200",
+          "category": "Area Light",
+          "subcategory": "AL2",
+          "ontario": 225,
+          "louisville": 40,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 265,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-AL2-200W-50K-NRCP",
+          "description": "Area Light",
+          "wattage": "200",
+          "category": "Area Light",
+          "subcategory": "AL2",
+          "ontario": 58,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 58,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-al2-200w-50k.pdf"
+        },
+        {
+          "sku": "PT-AL2-375W-50K",
+          "description": "Area Light",
+          "wattage": "375",
+          "category": "Area Light",
+          "subcategory": "AL2",
+          "ontario": 138,
+          "louisville": 27,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 165,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-al2-375w-50k.pdf"
+        },
+        {
+          "sku": "PT-LHTL-MW-3CP",
+          "description": "Twin Lens High Bay",
+          "wattage": "",
+          "category": "Linear High Bay",
+          "subcategory": "Twin Lens High Bay",
+          "ontario": 54,
+          "louisville": 7,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 61,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-lhtl-mw-3cp.pdf"
+        }
+      ],
+      "count": 4
+    }
+  }
+}
