@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-28T14:04:17.834544+00:00",
-  "updated_at_pacific": "January 28, 2026",
+  "updated_at": "2026-01-29T14:29:13.178095+00:00",
+  "updated_at_pacific": "January 29, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -56,12 +56,12 @@
           "wattage": "375",
           "category": "Area Light",
           "subcategory": "AL2",
-          "ontario": 138,
+          "ontario": 136,
           "louisville": 27,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 165,
+          "total": 163,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2-375w-50k.pdf"
         },
@@ -491,12 +491,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 259,
+          "ontario": 257,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 259,
+          "total": 257,
           "notes": "",
           "spec_url": ""
         },
