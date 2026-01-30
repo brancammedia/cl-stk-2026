@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-01-29T14:29:13.178095+00:00",
-  "updated_at_pacific": "January 29, 2026",
+  "updated_at": "2026-01-30T14:23:49.184029+00:00",
+  "updated_at_pacific": "January 30, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -161,12 +161,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "Twin Lens High Bay",
-          "ontario": 54,
+          "ontario": 34,
           "louisville": 7,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 61,
+          "total": 41,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-lhtl-mw-3cp.pdf"
         },
@@ -491,12 +491,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 257,
+          "ontario": 245,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 257,
+          "total": 245,
           "notes": "",
           "spec_url": ""
         },
@@ -1376,12 +1376,12 @@
           "wattage": "8",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 1358,
+          "ontario": 1334,
           "louisville": 166,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1524,
+          "total": 1500,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-3i-8w-3cct.pdf"
         },
