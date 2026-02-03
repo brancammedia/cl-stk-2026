@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-02T15:03:54.653548+00:00",
-  "updated_at_pacific": "February 02, 2026",
+  "updated_at": "2026-02-03T15:07:12.214330+00:00",
+  "updated_at_pacific": "February 03, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -101,12 +101,12 @@
           "wattage": "240",
           "category": "Area Light",
           "subcategory": "AL2N",
-          "ontario": 563,
+          "ontario": 559,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 563,
+          "total": 559,
           "notes": "",
           "spec_url": ""
         },
@@ -596,12 +596,12 @@
           "wattage": "100",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-MO",
-          "ontario": 235,
+          "ontario": 227,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 235,
+          "total": 227,
           "notes": "",
           "spec_url": ""
         },
@@ -1557,11 +1557,11 @@
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
           "ontario": 71,
-          "louisville": 47,
+          "louisville": 32,
           "phoenix": 30,
           "dallas": 25,
           "chicago": 0,
-          "total": 173,
+          "total": 158,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-15w-3cct.pdf"
         },
