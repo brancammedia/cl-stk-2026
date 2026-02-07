@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-06T15:03:18.076379+00:00",
-  "updated_at_pacific": "February 06, 2026",
+  "updated_at": "2026-02-07T14:00:43.394158+00:00",
+  "updated_at_pacific": "February 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -521,12 +521,12 @@
           "wattage": "N/A",
           "category": "Strip Light",
           "subcategory": "Accessories",
-          "ontario": 35,
+          "ontario": 11,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 35,
+          "total": 11,
           "notes": "",
           "spec_url": ""
         },
@@ -581,12 +581,12 @@
           "wattage": "75",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 868,
+          "ontario": 867,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 20,
           "chicago": 48,
-          "total": 936,
+          "total": 935,
           "notes": "",
           "spec_url": ""
         },
