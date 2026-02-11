@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-10T16:18:08.082515+00:00",
-  "updated_at_pacific": "February 10, 2026",
+  "updated_at": "2026-02-11T15:44:11.291309+00:00",
+  "updated_at_pacific": "February 11, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -491,12 +491,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 245,
+          "ontario": 244,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 245,
+          "total": 244,
           "notes": "",
           "spec_url": ""
         },
@@ -1316,12 +1316,12 @@
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light",
-          "ontario": 2467,
+          "ontario": 2309,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2467,
+          "total": 2309,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-ddl-8i-22w-5cct.pdf"
         },
