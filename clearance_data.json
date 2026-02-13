@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-12T15:12:39.273202+00:00",
-  "updated_at_pacific": "February 12, 2026",
+  "updated_at": "2026-02-13T15:05:31.020529+00:00",
+  "updated_at_pacific": "February 13, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -581,12 +581,12 @@
           "wattage": "75",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 867,
+          "ontario": 604,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 20,
           "chicago": 48,
-          "total": 935,
+          "total": 672,
           "notes": "",
           "spec_url": ""
         },
@@ -791,12 +791,12 @@
           "wattage": "80",
           "category": "Triproof",
           "subcategory": "Triproof",
-          "ontario": 16,
+          "ontario": 66,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 16,
+          "total": 66,
           "notes": "",
           "spec_url": ""
         },
@@ -1016,12 +1016,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 119,
+          "ontario": 38,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 1,
-          "total": 120,
+          "total": 39,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
