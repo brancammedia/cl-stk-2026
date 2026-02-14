@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-13T15:05:31.020529+00:00",
-  "updated_at_pacific": "February 13, 2026",
+  "updated_at": "2026-02-14T14:00:55.496152+00:00",
+  "updated_at_pacific": "February 14, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -401,12 +401,12 @@
           "wattage": "30W/40W/50W",
           "category": "Wraparound",
           "subcategory": "",
-          "ontario": 3,
+          "ontario": 13,
           "louisville": 2,
           "phoenix": 0,
           "dallas": 3,
           "chicago": 0,
-          "total": 8,
+          "total": 18,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-waa-4f9i-3cp.pdf"
         },
@@ -1346,12 +1346,12 @@
           "wattage": "12",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Downlight Square",
-          "ontario": 626,
+          "ontario": 602,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 107,
           "chicago": 0,
-          "total": 733,
+          "total": 709,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dls-s-6i-12w-3cct.pdf"
         },
@@ -1571,12 +1571,12 @@
           "wattage": "30",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 0,
+          "ontario": 1,
           "louisville": 12,
           "phoenix": 7,
           "dallas": 14,
           "chicago": 0,
-          "total": 33,
+          "total": 34,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-30w-3cct.pdf"
         },
