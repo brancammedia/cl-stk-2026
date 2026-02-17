@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-16T13:46:15.031821+00:00",
-  "updated_at_pacific": "February 16, 2026",
+  "updated_at": "2026-02-17T13:46:04.100506+00:00",
+  "updated_at_pacific": "February 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -56,12 +56,12 @@
           "wattage": "375",
           "category": "Area Light",
           "subcategory": "AL2",
-          "ontario": 136,
+          "ontario": 126,
           "louisville": 27,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 163,
+          "total": 153,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2-375w-50k.pdf"
         },
@@ -881,12 +881,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 335,
+          "ontario": 333,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 12,
-          "total": 348,
+          "total": 346,
           "notes": "",
           "spec_url": ""
         },
@@ -1361,12 +1361,12 @@
           "wattage": "9",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 886,
+          "ontario": 850,
           "louisville": 131,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1017,
+          "total": 981,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlfg-r-4i-9w-3cct.pdf"
         },
