@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-19T13:48:14.167707+00:00",
-  "updated_at_pacific": "February 19, 2026",
+  "updated_at": "2026-02-20T13:40:33.912193+00:00",
+  "updated_at_pacific": "February 20, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1541,12 +1541,12 @@
           "wattage": "40",
           "category": "Canopy",
           "subcategory": "Canopy",
-          "ontario": 5,
+          "ontario": 16,
           "louisville": 0,
           "phoenix": 20,
           "dallas": 20,
           "chicago": 0,
-          "total": 45,
+          "total": 56,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-cas1-40w-3cct.pdf"
         },
