@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-02-25T13:49:30.295166+00:00",
-  "updated_at_pacific": "February 25, 2026",
+  "updated_at": "2026-02-26T13:49:39.854227+00:00",
+  "updated_at_pacific": "February 26, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -240,8 +240,8 @@
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 5,
-          "total": 338,
+          "chicago": 16,
+          "total": 349,
           "notes": "",
           "spec_url": ""
         },
@@ -431,12 +431,12 @@
           "wattage": "25/30/40",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 310,
+          "ontario": 198,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 310,
+          "total": 198,
           "notes": "",
           "spec_url": ""
         },
@@ -1047,11 +1047,11 @@
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
           "ontario": 276,
-          "louisville": 129,
+          "louisville": 119,
           "phoenix": 22,
           "dallas": 0,
           "chicago": 61,
-          "total": 488,
+          "total": 478,
           "notes": "",
           "spec_url": ""
         },
@@ -1301,12 +1301,12 @@
           "wattage": "18",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Square)",
-          "ontario": 719,
+          "ontario": 717,
           "louisville": 13,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 732,
+          "total": 730,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-12i-22w-3cct.pdf"
         },
