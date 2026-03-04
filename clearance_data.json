@@ -1,25 +1,10 @@
 {
-  "updated_at": "2026-03-03T13:39:24.702344+00:00",
-  "updated_at_pacific": "March 03, 2026",
+  "updated_at": "2026-03-04T13:37:25.336426+00:00",
+  "updated_at_pacific": "March 04, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
       "products": [
-        {
-          "sku": "PT-AL2-200W-50K",
-          "description": "Area Light",
-          "wattage": "200",
-          "category": "Area Light",
-          "subcategory": "AL2",
-          "ontario": 215,
-          "louisville": 40,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 255,
-          "notes": "",
-          "spec_url": ""
-        },
         {
           "sku": "PT-AL2-200W-50K-NRCP",
           "description": "Area Light",
@@ -94,21 +79,6 @@
           "total": 4,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2n-150-3p-50k-w.pdf"
-        },
-        {
-          "sku": "PT-AL2N-240W-50K",
-          "description": "Area Light",
-          "wattage": "240",
-          "category": "Area Light",
-          "subcategory": "AL2N",
-          "ontario": 549,
-          "louisville": 0,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 549,
-          "notes": "",
-          "spec_url": ""
         },
         {
           "sku": "PT-AL2N-300-3P-50K-W",
@@ -236,12 +206,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "",
-          "ontario": 34,
+          "ontario": 0,
           "louisville": 7,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 41,
+          "total": 7,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-lhtl-mw-3cp.pdf"
         },
@@ -956,12 +926,12 @@
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP4",
-          "ontario": 62,
+          "ontario": 42,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 62,
+          "total": 42,
           "notes": "",
           "spec_url": ""
         },
@@ -1226,12 +1196,12 @@
           "wattage": "N/A",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 848,
+          "ontario": 837,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 848,
+          "total": 837,
           "notes": "",
           "spec_url": ""
         },
@@ -2091,7 +2061,7 @@
           "spec_url": ""
         }
       ],
-      "count": 139
+      "count": 137
     }
   }
 }
