@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-06T13:35:20.173985+00:00",
-  "updated_at_pacific": "March 06, 2026",
+  "updated_at": "2026-03-07T13:21:54.881486+00:00",
+  "updated_at_pacific": "March 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -41,12 +41,12 @@
           "wattage": "375",
           "category": "Area Light",
           "subcategory": "AL2",
-          "ontario": 100,
+          "ontario": 88,
           "louisville": 27,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 127,
+          "total": 115,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2-375w-50k.pdf"
         },
@@ -911,12 +911,12 @@
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP4",
-          "ontario": 139,
+          "ontario": 138,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 139,
+          "total": 138,
           "notes": "",
           "spec_url": ""
         },
