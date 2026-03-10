@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-09T13:45:17.154767+00:00",
-  "updated_at_pacific": "March 09, 2026",
+  "updated_at": "2026-03-10T13:43:21.062620+00:00",
+  "updated_at_pacific": "March 10, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1391,12 +1391,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Commercial",
-          "ontario": 168,
+          "ontario": 164,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 168,
+          "total": 164,
           "notes": "",
           "spec_url": ""
         },
@@ -1811,12 +1811,12 @@
           "wattage": "60",
           "category": "Limited Stock - Tubes",
           "subcategory": "Integrated Tube",
-          "ontario": 2403,
+          "ontario": 2383,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2403,
+          "total": 2383,
           "notes": "",
           "spec_url": ""
         },
