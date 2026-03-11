@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-10T13:43:21.062620+00:00",
-  "updated_at_pacific": "March 10, 2026",
+  "updated_at": "2026-03-11T13:45:03.849958+00:00",
+  "updated_at_pacific": "March 11, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -86,12 +86,12 @@
           "wattage": "300",
           "category": "Area Light",
           "subcategory": "AL2N",
-          "ontario": 23,
+          "ontario": 11,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 23,
+          "total": 11,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2n-300-3p-50k-w.pdf"
         },
@@ -791,12 +791,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 331,
+          "ontario": 330,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 12,
-          "total": 344,
+          "total": 343,
           "notes": "",
           "spec_url": ""
         },
