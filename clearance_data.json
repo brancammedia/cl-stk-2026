@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-12T13:42:44.537038+00:00",
-  "updated_at_pacific": "March 12, 2026",
+  "updated_at": "2026-03-13T13:40:10.897576+00:00",
+  "updated_at_pacific": "March 13, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -356,12 +356,12 @@
           "wattage": "30W/40W/50W",
           "category": "Wraparound",
           "subcategory": "",
-          "ontario": 13,
+          "ontario": 7,
           "louisville": 2,
           "phoenix": 0,
-          "dallas": 3,
+          "dallas": 2,
           "chicago": 0,
-          "total": 18,
+          "total": 11,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-waa-4f9i-3cp.pdf"
         },
@@ -1017,11 +1017,11 @@
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
           "ontario": 276,
-          "louisville": 109,
+          "louisville": 106,
           "phoenix": 22,
           "dallas": 0,
           "chicago": 61,
-          "total": 468,
+          "total": 465,
           "notes": "",
           "spec_url": ""
         },
