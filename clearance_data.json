@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-17T13:57:16.996878+00:00",
-  "updated_at_pacific": "March 17, 2026",
+  "updated_at": "2026-03-18T13:58:54.976804+00:00",
+  "updated_at_pacific": "March 18, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -806,12 +806,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 628,
+          "ontario": 598,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 46,
-          "total": 674,
+          "total": 644,
           "notes": "",
           "spec_url": ""
         },
