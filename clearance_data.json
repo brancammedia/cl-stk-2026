@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-19T13:48:34.566475+00:00",
-  "updated_at_pacific": "March 19, 2026",
+  "updated_at": "2026-03-20T13:40:29.362610+00:00",
+  "updated_at_pacific": "March 20, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1001,12 +1001,12 @@
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8B",
-          "ontario": 11,
+          "ontario": 55,
           "louisville": 1,
           "phoenix": 3,
           "dallas": 0,
           "chicago": 2,
-          "total": 17,
+          "total": 61,
           "notes": "",
           "spec_url": ""
         },
@@ -1092,11 +1092,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
           "ontario": 0,
-          "louisville": 5,
+          "louisville": 15,
           "phoenix": 0,
           "dallas": 59,
           "chicago": 21,
-          "total": 85,
+          "total": 95,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
@@ -1407,11 +1407,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
           "ontario": 0,
-          "louisville": 5,
+          "louisville": 15,
           "phoenix": 0,
           "dallas": 59,
           "chicago": 21,
-          "total": 85,
+          "total": 95,
           "notes": "",
           "spec_url": ""
         },
