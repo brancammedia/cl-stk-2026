@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-03-26T14:05:49.639257+00:00",
-  "updated_at_pacific": "March 26, 2026",
+  "updated_at": "2026-03-27T13:49:32.348432+00:00",
+  "updated_at_pacific": "March 27, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -312,11 +312,11 @@
           "category": "Round High Bay",
           "subcategory": "HBU3 Accessories",
           "ontario": 684,
-          "louisville": 14,
+          "louisville": 5,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 698,
+          "total": 689,
           "notes": "",
           "spec_url": ""
         },
@@ -791,12 +791,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 328,
+          "ontario": 326,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 12,
-          "total": 341,
+          "total": 339,
           "notes": "",
           "spec_url": ""
         },
