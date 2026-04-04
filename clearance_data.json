@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-03T13:43:14.670852+00:00",
-  "updated_at_pacific": "April 03, 2026",
+  "updated_at": "2026-04-04T13:34:19.264554+00:00",
+  "updated_at_pacific": "April 04, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -416,12 +416,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 221,
+          "ontario": 206,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 221,
+          "total": 206,
           "notes": "",
           "spec_url": ""
         },
@@ -981,6 +981,81 @@
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-22-3cp.pdf"
         },
         {
+          "sku": "PT-BLP8-22-3CP",
+          "description": "2x2 Back-Lit Panel",
+          "wattage": "25/30/40",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 0,
+          "louisville": 1,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 4,
+          "total": 5,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-BLP8-24-3CP",
+          "description": "2x4 Back-Lit Panel",
+          "wattage": "30/40/50",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 1,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 1,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-BLP8-14-3CP-EM",
+          "description": "1x4 Back-Lit Panel with EM",
+          "wattage": "25/30/40",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 10,
+          "total": 10,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-BLP8-22-3CP-EM",
+          "description": "2x2 Back-Lit Panel with EM",
+          "wattage": "25/30/40",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 165,
+          "louisville": 4,
+          "phoenix": 28,
+          "dallas": 41,
+          "chicago": 0,
+          "total": 238,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-BLP8-24-3CP-EM",
+          "description": "2x4 Back-Lit Panel with EM",
+          "wattage": "30/40/50",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 3,
+          "louisville": 0,
+          "phoenix": 1,
+          "dallas": 50,
+          "chicago": 30,
+          "total": 84,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
           "sku": "PT-BLP8B-22-3CP",
           "description": "2x2 Back-Lit Panel",
           "wattage": "",
@@ -1092,11 +1167,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
           "ontario": 0,
-          "louisville": 5,
+          "louisville": 15,
           "phoenix": 0,
           "dallas": 59,
           "chicago": 21,
-          "total": 85,
+          "total": 95,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
@@ -1407,11 +1482,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
           "ontario": 0,
-          "louisville": 5,
+          "louisville": 15,
           "phoenix": 0,
           "dallas": 59,
           "chicago": 21,
-          "total": 85,
+          "total": 95,
           "notes": "",
           "spec_url": ""
         },
@@ -1421,12 +1496,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 11,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 11,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
@@ -2061,7 +2136,7 @@
           "spec_url": ""
         }
       ],
-      "count": 137
+      "count": 142
     }
   }
 }
