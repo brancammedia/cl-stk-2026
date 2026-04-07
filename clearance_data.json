@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-06T13:52:05.071960+00:00",
-  "updated_at_pacific": "April 06, 2026",
+  "updated_at": "2026-04-07T14:08:18.842357+00:00",
+  "updated_at_pacific": "April 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -225,8 +225,8 @@
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 16,
-          "total": 349,
+          "chicago": 5,
+          "total": 338,
           "notes": "",
           "spec_url": ""
         },
@@ -1376,12 +1376,12 @@
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light",
-          "ontario": 2309,
+          "ontario": 2229,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2309,
+          "total": 2229,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-ddl-8i-22w-5cct.pdf"
         },
