@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-07T14:08:18.842357+00:00",
-  "updated_at_pacific": "April 07, 2026",
+  "updated_at": "2026-04-08T14:09:31.085436+00:00",
+  "updated_at_pacific": "April 08, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -225,8 +225,8 @@
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 5,
-          "total": 338,
+          "chicago": 16,
+          "total": 349,
           "notes": "",
           "spec_url": ""
         },
@@ -1526,12 +1526,12 @@
           "wattage": "12",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 135,
-          "louisville": 118,
+          "ontario": 0,
+          "louisville": 0,
           "phoenix": 0,
-          "dallas": 89,
+          "dallas": 0,
           "chicago": 0,
-          "total": 342,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
@@ -1662,11 +1662,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
           "ontario": 598,
-          "louisville": 150,
+          "louisville": 5,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 748,
+          "total": 603,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-4i-12w-3cct.pdf"
         },
