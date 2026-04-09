@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-08T14:09:31.085436+00:00",
-  "updated_at_pacific": "April 08, 2026",
+  "updated_at": "2026-04-09T14:19:56.963221+00:00",
+  "updated_at_pacific": "April 09, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1814,9 +1814,9 @@
           "ontario": 71,
           "louisville": 32,
           "phoenix": 30,
-          "dallas": 25,
+          "dallas": 24,
           "chicago": 0,
-          "total": 158,
+          "total": 157,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-15w-3cct.pdf"
         },
