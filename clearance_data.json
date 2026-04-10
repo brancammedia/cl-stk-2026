@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-09T14:19:56.963221+00:00",
-  "updated_at_pacific": "April 09, 2026",
+  "updated_at": "2026-04-10T13:55:18.828609+00:00",
+  "updated_at_pacific": "April 10, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -75,8 +75,8 @@
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 4,
-          "total": 4,
+          "chicago": 0,
+          "total": 0,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2n-150-3p-50k-w.pdf"
         },
@@ -225,8 +225,8 @@
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 16,
-          "total": 349,
+          "chicago": 5,
+          "total": 338,
           "notes": "",
           "spec_url": ""
         },
@@ -701,12 +701,12 @@
           "wattage": "80",
           "category": "Triproof",
           "subcategory": "Triproof",
-          "ontario": 10,
+          "ontario": 8,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 10,
+          "total": 8,
           "notes": "",
           "spec_url": ""
         },
@@ -981,6 +981,21 @@
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-22-3cp.pdf"
         },
         {
+          "sku": "PT-BLP6-24-3CP-EM",
+          "description": "",
+          "wattage": "",
+          "category": "Panel - Backlit Fixture",
+          "subcategory": "BLP6",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
           "sku": "PT-BLP8-22-3CP",
           "description": "2x2 Back-Lit Panel",
           "wattage": "25/30/40",
@@ -1136,12 +1151,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 333,
+          "ontario": 319,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 333,
+          "total": 319,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-7i-15w-3cct-em.pdf"
         },
@@ -1174,6 +1189,21 @@
           "total": 95,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
+        },
+        {
+          "sku": "PT-DLSM-R-5I-10W-3CCT",
+          "description": "Downlight Round + EM",
+          "wattage": "22",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Surface Mount Downlight (Round)",
+          "ontario": 20,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 20,
+          "notes": "",
+          "spec_url": ""
         },
         {
           "sku": "TRR-SM-5I-BK",
@@ -1346,12 +1376,12 @@
           "wattage": "18",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Square)",
-          "ontario": 717,
+          "ontario": 532,
           "louisville": 13,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 730,
+          "total": 545,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-12i-22w-3cct.pdf"
         },
@@ -1421,12 +1451,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light Gen 2",
-          "ontario": 1,
-          "louisville": 17,
+          "ontario": 0,
+          "louisville": 0,
           "phoenix": 0,
-          "dallas": 5,
+          "dallas": 0,
           "chicago": 0,
-          "total": 23,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
@@ -1472,6 +1502,21 @@
           "dallas": 0,
           "chicago": 0,
           "total": 160,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-CDL2-10I-5C3P",
+          "description": "",
+          "wattage": "",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Commercial",
+          "ontario": 0,
+          "louisville": 123,
+          "phoenix": 0,
+          "dallas": 81,
+          "chicago": 42,
+          "total": 246,
           "notes": "",
           "spec_url": ""
         },
@@ -1526,12 +1571,12 @@
           "wattage": "12",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 0,
+          "ontario": 26,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
+          "total": 26,
           "notes": "",
           "spec_url": ""
         },
@@ -1622,6 +1667,21 @@
           "dallas": 0,
           "chicago": 0,
           "total": 9,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-DLS2-R-8I-18W-5CCT",
+          "description": "Slim Downlight Round",
+          "wattage": "15",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Slim Downlight Round",
+          "ontario": 444,
+          "louisville": 5,
+          "phoenix": 0,
+          "dallas": 43,
+          "chicago": 0,
+          "total": 492,
           "notes": "",
           "spec_url": ""
         },
@@ -1789,6 +1849,51 @@
           "total": 692,
           "notes": "",
           "spec_url": ""
+        },
+        {
+          "sku": "PT-LHB-155W-2CCT",
+          "description": "Linear High Bay",
+          "wattage": "15",
+          "category": "Linear High Bay",
+          "subcategory": "LHB",
+          "ontario": 12,
+          "louisville": 17,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 29,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
+        },
+        {
+          "sku": "PT-RHBE-150W-50K",
+          "description": "Round High Bay",
+          "wattage": "15",
+          "category": "Round High Bay",
+          "subcategory": "RHBE",
+          "ontario": 1,
+          "louisville": 11,
+          "phoenix": 7,
+          "dallas": 129,
+          "chicago": 7,
+          "total": 155,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
+        },
+        {
+          "sku": "PT-RHBE-240W-50K",
+          "description": "Round High Bay",
+          "wattage": "15",
+          "category": "Round High Bay",
+          "subcategory": "RHBE",
+          "ontario": 0,
+          "louisville": 1,
+          "phoenix": 5,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 6,
+          "notes": "",
+          "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
           "sku": "PT-CAS1-40W-3CCT",
@@ -2136,7 +2241,7 @@
           "spec_url": ""
         }
       ],
-      "count": 142
+      "count": 149
     }
   }
 }
