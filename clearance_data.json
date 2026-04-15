@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-14T14:18:31.953173+00:00",
-  "updated_at_pacific": "April 14, 2026",
+  "updated_at": "2026-04-15T14:10:32.933683+00:00",
+  "updated_at_pacific": "April 15, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -776,12 +776,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer",
-          "ontario": 150,
+          "ontario": 100,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 150,
+          "total": 100,
           "notes": "",
           "spec_url": ""
         },
@@ -1512,11 +1512,11 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Commercial",
           "ontario": 0,
-          "louisville": 123,
+          "louisville": 108,
           "phoenix": 0,
           "dallas": 81,
           "chicago": 42,
-          "total": 246,
+          "total": 231,
           "notes": "",
           "spec_url": ""
         },
@@ -1903,10 +1903,10 @@
           "subcategory": "Canopy",
           "ontario": 0,
           "louisville": 0,
-          "phoenix": 20,
+          "phoenix": 0,
           "dallas": 16,
           "chicago": 0,
-          "total": 36,
+          "total": 16,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-cas1-40w-3cct.pdf"
         },
