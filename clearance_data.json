@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-16T14:20:17.323890+00:00",
-  "updated_at_pacific": "April 16, 2026",
+  "updated_at": "2026-04-17T14:03:07.659831+00:00",
+  "updated_at_pacific": "April 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1151,12 +1151,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 319,
+          "ontario": 316,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 319,
+          "total": 316,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-7i-15w-3cct-em.pdf"
         },
@@ -1857,11 +1857,11 @@
           "category": "Linear High Bay",
           "subcategory": "LHB",
           "ontario": 12,
-          "louisville": 14,
+          "louisville": 13,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 26,
+          "total": 25,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
