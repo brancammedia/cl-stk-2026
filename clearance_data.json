@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-17T14:03:07.659831+00:00",
-  "updated_at_pacific": "April 17, 2026",
+  "updated_at": "2026-04-18T13:41:18.671818+00:00",
+  "updated_at_pacific": "April 18, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1341,6 +1341,66 @@
           "spec_url": ""
         },
         {
+          "sku": "PT-DLSM2-R-7I-15W-5CCT",
+          "description": "",
+          "wattage": "",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Surface Mount Downlight (Round) Accessories",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-DLSM2-R-9I-18W-5CCT",
+          "description": "",
+          "wattage": "",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Surface Mount Downlight (Round) Accessories",
+          "ontario": 48,
+          "louisville": 5,
+          "phoenix": 0,
+          "dallas": 78,
+          "chicago": 0,
+          "total": 131,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-DLSM2-R-11I-24W-5CCT",
+          "description": "",
+          "wattage": "",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Surface Mount Downlight (Round) Accessories",
+          "ontario": 790,
+          "louisville": 102,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 892,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-DLSM2-R-12I-22W-5CCT",
+          "description": "",
+          "wattage": "",
+          "category": "Limited Stock - Downlight",
+          "subcategory": "Surface Mount Downlight (Round) Accessories",
+          "ontario": 16,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 16,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
           "sku": "PT-DLSM-S-7I-15W-3CCT",
           "description": "Downlight Square",
           "wattage": "18",
@@ -2239,9 +2299,54 @@
           "total": 94,
           "notes": "",
           "spec_url": ""
+        },
+        {
+          "sku": "PT-CAT2-HW-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Poles and Arms",
+          "subcategory": "Poles and Arms",
+          "ontario": 5,
+          "louisville": 0,
+          "phoenix": 2,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 7,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-WPH3-LW-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Poles and Arms",
+          "subcategory": "Poles and Arms",
+          "ontario": 31,
+          "louisville": 12,
+          "phoenix": 33,
+          "dallas": 14,
+          "chicago": 17,
+          "total": 107,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-VS-MO-8F-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Poles and Arms",
+          "subcategory": "Poles and Arms",
+          "ontario": 389,
+          "louisville": 40,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 429,
+          "notes": "",
+          "spec_url": ""
         }
       ],
-      "count": 149
+      "count": 156
     }
   }
 }
