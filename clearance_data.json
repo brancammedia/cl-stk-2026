@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-21T14:15:40.393376+00:00",
-  "updated_at_pacific": "April 21, 2026",
+  "updated_at": "2026-04-22T14:15:43.197600+00:00",
+  "updated_at_pacific": "April 22, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1376,12 +1376,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 790,
+          "ontario": 766,
           "louisville": 102,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 892,
+          "total": 868,
           "notes": "",
           "spec_url": ""
         },
@@ -1917,11 +1917,11 @@
           "category": "Linear High Bay",
           "subcategory": "LHB",
           "ontario": 12,
-          "louisville": 5,
+          "louisville": 13,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 17,
+          "total": 25,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
@@ -1992,11 +1992,11 @@
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
           "ontario": 8,
-          "louisville": 12,
+          "louisville": 5,
           "phoenix": 0,
           "dallas": 14,
           "chicago": 0,
-          "total": 34,
+          "total": 27,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-30w-3cct.pdf"
         },
