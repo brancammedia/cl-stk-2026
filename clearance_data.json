@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-23T14:18:53.311163+00:00",
-  "updated_at_pacific": "April 23, 2026",
+  "updated_at": "2026-04-24T14:13:43.744471+00:00",
+  "updated_at_pacific": "April 24, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -416,12 +416,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 206,
+          "ontario": 166,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 206,
+          "total": 166,
           "notes": "",
           "spec_url": ""
         },
@@ -497,6 +497,21 @@
           "dallas": 20,
           "chicago": 48,
           "total": 672,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-VS-MO-8F-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Vaportight",
+          "subcategory": "Vapor Tight",
+          "ontario": 389,
+          "louisville": 40,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 429,
           "notes": "",
           "spec_url": ""
         },
@@ -926,12 +941,12 @@
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP4",
-          "ontario": 42,
+          "ontario": 36,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 42,
+          "total": 36,
           "notes": "",
           "spec_url": ""
         },
@@ -1574,9 +1589,9 @@
           "ontario": 0,
           "louisville": 98,
           "phoenix": 0,
-          "dallas": 81,
+          "dallas": 77,
           "chicago": 42,
-          "total": 221,
+          "total": 217,
           "notes": "",
           "spec_url": ""
         },
@@ -1971,6 +1986,21 @@
           "spec_url": "https://portorlighting.com/media/tariff/pt-cas1-40w-3cct.pdf"
         },
         {
+          "sku": "PT-CAT2-HW-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Canopy",
+          "subcategory": "Canopy",
+          "ontario": 5,
+          "louisville": 0,
+          "phoenix": 2,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 7,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
           "sku": "PT-WPM2-15W-3CCT",
           "description": "Mini Wall Pack",
           "wattage": "15",
@@ -1999,6 +2029,21 @@
           "total": 27,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-30w-3cct.pdf"
+        },
+        {
+          "sku": "PT-WPH3-LW-3CP",
+          "description": "",
+          "wattage": "",
+          "category": "Wall Pack Mini",
+          "subcategory": "Wall Pack Mini",
+          "ontario": 31,
+          "louisville": 11,
+          "phoenix": 33,
+          "dallas": 14,
+          "chicago": 17,
+          "total": 106,
+          "notes": "",
+          "spec_url": ""
         },
         {
           "sku": "PT-T8-8FB-40W-5K-F-R17d",
@@ -2297,51 +2342,6 @@
           "dallas": 0,
           "chicago": 0,
           "total": 94,
-          "notes": "",
-          "spec_url": ""
-        },
-        {
-          "sku": "PT-CAT2-HW-3CP",
-          "description": "",
-          "wattage": "",
-          "category": "Poles and Arms",
-          "subcategory": "Poles and Arms",
-          "ontario": 5,
-          "louisville": 0,
-          "phoenix": 2,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 7,
-          "notes": "",
-          "spec_url": ""
-        },
-        {
-          "sku": "PT-WPH3-LW-3CP",
-          "description": "",
-          "wattage": "",
-          "category": "Poles and Arms",
-          "subcategory": "Poles and Arms",
-          "ontario": 31,
-          "louisville": 12,
-          "phoenix": 33,
-          "dallas": 14,
-          "chicago": 17,
-          "total": 107,
-          "notes": "",
-          "spec_url": ""
-        },
-        {
-          "sku": "PT-VS-MO-8F-3CP",
-          "description": "",
-          "wattage": "",
-          "category": "Poles and Arms",
-          "subcategory": "Poles and Arms",
-          "ontario": 389,
-          "louisville": 40,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 429,
           "notes": "",
           "spec_url": ""
         }
