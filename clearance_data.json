@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-04-30T14:34:57.445884+00:00",
-  "updated_at_pacific": "April 30, 2026",
+  "updated_at": "2026-05-01T13:59:32.669629+00:00",
+  "updated_at_pacific": "May 01, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -312,11 +312,11 @@
           "category": "Round High Bay",
           "subcategory": "HBU3 Accessories",
           "ontario": 684,
-          "louisville": 5,
+          "louisville": 14,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 689,
+          "total": 698,
           "notes": "",
           "spec_url": ""
         },
@@ -1406,12 +1406,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 16,
+          "ontario": 14,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 16,
+          "total": 14,
           "notes": "",
           "spec_url": ""
         },
@@ -1991,12 +1991,12 @@
           "wattage": "",
           "category": "Canopy",
           "subcategory": "Canopy",
-          "ontario": 5,
+          "ontario": 0,
           "louisville": 0,
-          "phoenix": 2,
+          "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 7,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
