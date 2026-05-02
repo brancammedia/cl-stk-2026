@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-01T13:59:32.669629+00:00",
-  "updated_at_pacific": "May 01, 2026",
+  "updated_at": "2026-05-02T13:53:10.904681+00:00",
+  "updated_at_pacific": "May 02, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -971,12 +971,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 38,
+          "ontario": 36,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 1,
-          "total": 39,
+          "total": 37,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
@@ -1391,12 +1391,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 766,
+          "ontario": 706,
           "louisville": 102,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 868,
+          "total": 808,
           "notes": "",
           "spec_url": ""
         },
@@ -1841,12 +1841,12 @@
           "wattage": "15",
           "category": "Limited Stock - Flood Lights",
           "subcategory": "Mini Flood Light Fixture",
-          "ontario": 279,
+          "ontario": 278,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 279,
+          "total": 278,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
