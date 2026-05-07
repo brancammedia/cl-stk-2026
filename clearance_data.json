@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-06T15:11:18.064010+00:00",
-  "updated_at_pacific": "May 06, 2026",
+  "updated_at": "2026-05-07T15:13:31.940703+00:00",
+  "updated_at_pacific": "May 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1571,12 +1571,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Commercial",
-          "ontario": 111,
+          "ontario": 107,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 111,
+          "total": 107,
           "notes": "",
           "spec_url": ""
         },
@@ -1708,10 +1708,10 @@
           "subcategory": "Slim Downlight Round",
           "ontario": 0,
           "louisville": 42,
-          "phoenix": 5,
+          "phoenix": 13,
           "dallas": 23,
           "chicago": 0,
-          "total": 70,
+          "total": 78,
           "notes": "",
           "spec_url": ""
         },
