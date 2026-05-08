@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-07T15:13:31.940703+00:00",
-  "updated_at_pacific": "May 07, 2026",
+  "updated_at": "2026-05-08T14:22:54.818386+00:00",
+  "updated_at_pacific": "May 08, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1376,12 +1376,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 48,
-          "louisville": 13,
+          "ontario": 6,
+          "louisville": 5,
           "phoenix": 0,
           "dallas": 78,
           "chicago": 0,
-          "total": 139,
+          "total": 89,
           "notes": "",
           "spec_url": ""
         },
