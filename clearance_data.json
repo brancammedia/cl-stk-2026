@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-11T15:44:22.882412+00:00",
-  "updated_at_pacific": "May 11, 2026",
+  "updated_at": "2026-05-12T15:21:12.478171+00:00",
+  "updated_at_pacific": "May 12, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -371,12 +371,12 @@
           "wattage": "25/30/40",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 126,
+          "ontario": 51,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 126,
+          "total": 51,
           "notes": "",
           "spec_url": ""
         },
@@ -386,12 +386,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 46,
+          "ontario": 43,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 46,
+          "total": 43,
           "notes": "",
           "spec_url": ""
         },
@@ -1391,12 +1391,12 @@
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round) Accessories",
-          "ontario": 706,
+          "ontario": 700,
           "louisville": 102,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 808,
+          "total": 802,
           "notes": "",
           "spec_url": ""
         },
