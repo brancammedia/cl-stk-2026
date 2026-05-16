@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-15T15:00:28.335674+00:00",
-  "updated_at_pacific": "May 15, 2026",
+  "updated_at": "2026-05-16T14:05:29.006656+00:00",
+  "updated_at_pacific": "May 16, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -536,12 +536,12 @@
           "wattage": "200",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-WD",
-          "ontario": 6,
+          "ontario": 0,
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 40,
-          "total": 80,
+          "total": 74,
           "notes": "",
           "spec_url": ""
         },
@@ -2036,12 +2036,12 @@
           "wattage": "",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 18,
+          "ontario": 17,
           "louisville": 11,
           "phoenix": 31,
           "dallas": 12,
           "chicago": 17,
-          "total": 89,
+          "total": 88,
           "notes": "",
           "spec_url": ""
         },
