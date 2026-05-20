@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-19T15:57:52.125533+00:00",
-  "updated_at_pacific": "May 19, 2026",
+  "updated_at": "2026-05-20T16:05:51.837842+00:00",
+  "updated_at_pacific": "May 20, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1582,7 +1582,7 @@
         },
         {
           "sku": "PT-CDL2-10I-5C3P",
-          "description": "",
+          "description": "Commercial",
           "wattage": "",
           "category": "Limited Stock - Downlight",
           "subcategory": "Commercial",
@@ -2036,12 +2036,12 @@
           "wattage": "",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 17,
+          "ontario": 13,
           "louisville": 11,
-          "phoenix": 31,
+          "phoenix": 6,
           "dallas": 12,
           "chicago": 17,
-          "total": 88,
+          "total": 59,
           "notes": "",
           "spec_url": ""
         },
