@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-20T16:05:51.837842+00:00",
-  "updated_at_pacific": "May 20, 2026",
+  "updated_at": "2026-05-21T15:56:47.733166+00:00",
+  "updated_at_pacific": "May 21, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1646,12 +1646,12 @@
           "wattage": "12",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 16,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 16,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
