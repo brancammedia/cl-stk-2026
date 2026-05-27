@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-26T16:25:32.809905+00:00",
-  "updated_at_pacific": "May 26, 2026",
+  "updated_at": "2026-05-27T16:22:59.696173+00:00",
+  "updated_at_pacific": "May 27, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -359,9 +359,9 @@
           "ontario": 0,
           "louisville": 2,
           "phoenix": 0,
-          "dallas": 2,
+          "dallas": 1,
           "chicago": 0,
-          "total": 4,
+          "total": 3,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-waa-4f9i-3cp.pdf"
         },
