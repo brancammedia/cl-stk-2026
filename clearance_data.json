@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-28T16:37:55.044983+00:00",
-  "updated_at_pacific": "May 28, 2026",
+  "updated_at": "2026-05-29T16:22:51.798133+00:00",
+  "updated_at_pacific": "May 29, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -401,12 +401,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 257,
+          "ontario": 256,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 257,
+          "total": 256,
           "notes": "",
           "spec_url": ""
         },
@@ -1379,9 +1379,9 @@
           "ontario": 0,
           "louisville": 5,
           "phoenix": 0,
-          "dallas": 78,
+          "dallas": 72,
           "chicago": 0,
-          "total": 83,
+          "total": 77,
           "notes": "",
           "spec_url": ""
         },
@@ -1661,12 +1661,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 5,
+          "ontario": 14,
           "louisville": 3,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 8,
+          "total": 17,
           "notes": "",
           "spec_url": ""
         },
