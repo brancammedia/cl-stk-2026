@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-05-29T16:22:51.798133+00:00",
-  "updated_at_pacific": "May 29, 2026",
+  "updated_at": "2026-05-30T14:14:00.496867+00:00",
+  "updated_at_pacific": "May 30, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1061,12 +1061,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 23,
+          "ontario": 18,
           "louisville": 4,
           "phoenix": 28,
           "dallas": 33,
           "chicago": 0,
-          "total": 88,
+          "total": 83,
           "notes": "",
           "spec_url": ""
         },
