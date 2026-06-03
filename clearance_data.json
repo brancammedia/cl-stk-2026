@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-02T17:02:18.829500+00:00",
-  "updated_at_pacific": "June 02, 2026",
+  "updated_at": "2026-06-03T17:26:39.744956+00:00",
+  "updated_at_pacific": "June 03, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1391,12 +1391,12 @@
           "wattage": "24",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 680,
+          "ontario": 700,
           "louisville": 102,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 782,
+          "total": 802,
           "notes": "",
           "spec_url": ""
         },
@@ -1661,12 +1661,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 14,
+          "ontario": 5,
           "louisville": 3,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 17,
+          "total": 8,
           "notes": "",
           "spec_url": ""
         },
@@ -2081,12 +2081,12 @@
           "wattage": "30",
           "category": "Limited Stock - Tubes",
           "subcategory": "Integrated Tube",
-          "ontario": 400,
+          "ontario": 380,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 400,
+          "total": 380,
           "notes": "",
           "spec_url": ""
         },
