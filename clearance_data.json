@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-04T15:59:25.459884+00:00",
-  "updated_at_pacific": "June 04, 2026",
+  "updated_at": "2026-06-05T15:35:02.109126+00:00",
+  "updated_at_pacific": "June 05, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1061,12 +1061,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 27,
+          "ontario": 21,
           "louisville": 4,
           "phoenix": 28,
           "dallas": 33,
           "chicago": 0,
-          "total": 92,
+          "total": 86,
           "notes": "",
           "spec_url": ""
         },
@@ -2036,12 +2036,12 @@
           "wattage": "",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 13,
+          "ontario": 10,
           "louisville": 8,
           "phoenix": 6,
           "dallas": 12,
           "chicago": 17,
-          "total": 56,
+          "total": 53,
           "notes": "",
           "spec_url": ""
         },
