@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-16T17:31:58.751610+00:00",
-  "updated_at_pacific": "June 16, 2026",
+  "updated_at": "2026-06-17T16:23:09.211280+00:00",
+  "updated_at_pacific": "June 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -866,12 +866,12 @@
           "wattage": "30",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Panel - Backlit Fixture",
-          "ontario": 83,
+          "ontario": 82,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 83,
+          "total": 82,
           "notes": "",
           "spec_url": ""
         },
@@ -1661,12 +1661,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 5,
+          "ontario": 17,
           "louisville": 3,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 8,
+          "total": 20,
           "notes": "",
           "spec_url": ""
         },
