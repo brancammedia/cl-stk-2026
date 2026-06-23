@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-22T17:15:06.523417+00:00",
-  "updated_at_pacific": "June 22, 2026",
+  "updated_at": "2026-06-23T15:34:41.192680+00:00",
+  "updated_at_pacific": "June 23, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1796,12 +1796,12 @@
           "wattage": "12",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 562,
+          "ontario": 555,
           "louisville": 5,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 567,
+          "total": 560,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-4i-12w-3cct.pdf"
         },
@@ -1931,12 +1931,12 @@
           "wattage": "15",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 0,
+          "ontario": 12,
           "louisville": 24,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 24,
+          "total": 36,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
@@ -1950,8 +1950,8 @@
           "louisville": 7,
           "phoenix": 7,
           "dallas": 89,
-          "chicago": 7,
-          "total": 112,
+          "chicago": 3,
+          "total": 108,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
