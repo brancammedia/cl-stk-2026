@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-06-30T15:11:48.812007+00:00",
-  "updated_at_pacific": "June 30, 2026",
+  "updated_at": "2026-07-01T15:19:12.061548+00:00",
+  "updated_at_pacific": "July 01, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -386,12 +386,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "",
-          "ontario": 42,
+          "ontario": 38,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 42,
+          "total": 38,
           "notes": "",
           "spec_url": ""
         },
@@ -1766,12 +1766,12 @@
           "wattage": "9",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 850,
+          "ontario": 844,
           "louisville": 131,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 981,
+          "total": 975,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlfg-r-4i-9w-3cct.pdf"
         },
