@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-02T14:39:59.960234+00:00",
-  "updated_at_pacific": "July 02, 2026",
+  "updated_at": "2026-07-03T14:50:59.267744+00:00",
+  "updated_at_pacific": "July 03, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -506,12 +506,12 @@
           "wattage": "",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 389,
+          "ontario": 383,
           "louisville": 39,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 428,
+          "total": 422,
           "notes": "",
           "spec_url": ""
         },
@@ -1661,12 +1661,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Baffled",
-          "ontario": 17,
+          "ontario": 0,
           "louisville": 3,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 20,
+          "total": 3,
           "notes": "",
           "spec_url": ""
         },
@@ -2171,12 +2171,12 @@
           "wattage": "N/A",
           "category": "Poles and Arms",
           "subcategory": "Poles and Arms",
-          "ontario": 0,
+          "ontario": 1,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
+          "total": 1,
           "notes": "",
           "spec_url": ""
         },
