@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-06T16:00:35.339292+00:00",
-  "updated_at_pacific": "July 06, 2026",
+  "updated_at": "2026-07-07T15:25:45.816437+00:00",
+  "updated_at_pacific": "July 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -371,12 +371,12 @@
           "wattage": "25/30/40",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 51,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 51,
+          "total": 0,
           "notes": "",
           "spec_url": ""
         },
@@ -1031,12 +1031,12 @@
           "wattage": "30/40/50",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8",
-          "ontario": 8,
+          "ontario": 7,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 0,
-          "total": 9,
+          "total": 8,
           "notes": "",
           "spec_url": ""
         },
@@ -1541,12 +1541,12 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light Gen 2",
-          "ontario": 57,
+          "ontario": 33,
           "louisville": 6,
           "phoenix": 0,
           "dallas": 96,
           "chicago": 0,
-          "total": 159,
+          "total": 135,
           "notes": "",
           "spec_url": ""
         },
