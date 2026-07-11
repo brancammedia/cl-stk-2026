@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-10T15:12:46.193007+00:00",
-  "updated_at_pacific": "July 10, 2026",
+  "updated_at": "2026-07-11T14:00:56.434583+00:00",
+  "updated_at_pacific": "July 11, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1781,12 +1781,12 @@
           "wattage": "8",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 1314,
+          "ontario": 1264,
           "louisville": 166,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1480,
+          "total": 1430,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-3i-8w-3cct.pdf"
         },
@@ -2344,9 +2344,39 @@
           "total": 94,
           "notes": "",
           "spec_url": ""
+        },
+        {
+          "sku": "PT-DLR-C-4I-10W-5CCT-277",
+          "description": "Canless Downlight",
+          "wattage": "10",
+          "category": "Poles and Arms",
+          "subcategory": "Retrofit Downlight Canless 277V",
+          "ontario": 37,
+          "louisville": 75,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 112,
+          "notes": "",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-DLR-C-6I-15W-5CCT-277",
+          "description": "Canless Downlight",
+          "wattage": "15",
+          "category": "Poles and Arms",
+          "subcategory": "Retrofit Downlight Canless 277V",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 0,
+          "notes": "",
+          "spec_url": ""
         }
       ],
-      "count": 156
+      "count": 158
     }
   }
 }
