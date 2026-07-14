@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-13T15:22:19.070192+00:00",
-  "updated_at_pacific": "July 13, 2026",
+  "updated_at": "2026-07-14T14:24:38.108562+00:00",
+  "updated_at_pacific": "July 14, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -536,12 +536,12 @@
           "wattage": "200",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-WD",
-          "ontario": 131,
+          "ontario": 124,
           "louisville": 34,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 40,
-          "total": 205,
+          "total": 198,
           "notes": "",
           "spec_url": ""
         },
@@ -1379,9 +1379,9 @@
           "ontario": 0,
           "louisville": 5,
           "phoenix": 0,
-          "dallas": 40,
+          "dallas": 24,
           "chicago": 0,
-          "total": 45,
+          "total": 29,
           "notes": "",
           "spec_url": ""
         },
