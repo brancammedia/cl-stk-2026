@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-14T14:24:38.108562+00:00",
-  "updated_at_pacific": "July 14, 2026",
+  "updated_at": "2026-07-15T14:19:44.942203+00:00",
+  "updated_at_pacific": "July 15, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1080,8 +1080,8 @@
           "louisville": 0,
           "phoenix": 1,
           "dallas": 41,
-          "chicago": 25,
-          "total": 70,
+          "chicago": 24,
+          "total": 69,
           "notes": "",
           "spec_url": ""
         },
@@ -1121,12 +1121,12 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 273,
+          "ontario": 270,
           "louisville": 76,
           "phoenix": 22,
           "dallas": 0,
           "chicago": 61,
-          "total": 432,
+          "total": 429,
           "notes": "",
           "spec_url": ""
         },
@@ -1979,9 +1979,9 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 6,
+          "dallas": 0,
           "chicago": 0,
-          "total": 6,
+          "total": 0,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-cas1-40w-3cct.pdf"
         },
