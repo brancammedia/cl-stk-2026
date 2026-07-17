@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-16T14:32:53.478929+00:00",
-  "updated_at_pacific": "July 16, 2026",
+  "updated_at": "2026-07-17T14:12:27.468359+00:00",
+  "updated_at_pacific": "July 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1556,12 +1556,12 @@
           "wattage": "18",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light Gen 2",
-          "ontario": 144,
+          "ontario": 140,
           "louisville": 6,
           "phoenix": 0,
           "dallas": 22,
           "chicago": 0,
-          "total": 172,
+          "total": 168,
           "notes": "",
           "spec_url": ""
         },
@@ -2216,12 +2216,12 @@
           "wattage": "N/A",
           "category": "Poles and Arms",
           "subcategory": "Poles and Arms",
-          "ontario": 5,
+          "ontario": 16,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 5,
+          "total": 16,
           "notes": "",
           "spec_url": ""
         },
