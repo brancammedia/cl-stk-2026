@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-24T14:20:27.659789+00:00",
-  "updated_at_pacific": "July 24, 2026",
+  "updated_at": "2026-07-25T14:09:53.266028+00:00",
+  "updated_at_pacific": "July 25, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -357,11 +357,11 @@
           "category": "Wraparound",
           "subcategory": "",
           "ontario": 0,
-          "louisville": 2,
+          "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 3,
+          "total": 1,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-waa-4f9i-3cp.pdf"
         },
@@ -2231,12 +2231,12 @@
           "wattage": "",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 4,
+          "ontario": 2,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 1,
           "chicago": 0,
-          "total": 5,
+          "total": 3,
           "notes": "",
           "spec_url": ""
         },
@@ -2441,12 +2441,12 @@
           "wattage": "N/A",
           "category": "Poles and Arms",
           "subcategory": "Poles and Arms",
-          "ontario": 16,
+          "ontario": 5,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 16,
+          "total": 5,
           "notes": "",
           "spec_url": ""
         },
