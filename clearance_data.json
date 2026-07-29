@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-07-28T15:00:00.407599+00:00",
-  "updated_at_pacific": "July 28, 2026",
+  "updated_at": "2026-07-29T14:51:01.293649+00:00",
+  "updated_at_pacific": "July 29, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1886,12 +1886,12 @@
           "wattage": "8",
           "category": "Limited Stock - Downlight",
           "subcategory": "Gimbal Downlight",
-          "ontario": 1264,
+          "ontario": 1263,
           "louisville": 166,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1430,
+          "total": 1429,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-3i-8w-3cct.pdf"
         },
@@ -2084,9 +2084,9 @@
           "ontario": 1,
           "louisville": 7,
           "phoenix": 7,
-          "dallas": 50,
+          "dallas": 38,
           "chicago": 3,
-          "total": 68,
+          "total": 56,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
