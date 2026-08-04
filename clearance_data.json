@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-03T15:25:06.700803+00:00",
-  "updated_at_pacific": "August 03, 2026",
+  "updated_at": "2026-08-04T15:02:04.010182+00:00",
+  "updated_at_pacific": "August 04, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -2066,12 +2066,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 212,
+          "ontario": 203,
           "louisville": 61,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 506,
+          "total": 497,
           "notes": "",
           "spec_url": ""
         },
