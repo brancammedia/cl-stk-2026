@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-07T13:49:49.212465+00:00",
-  "updated_at_pacific": "August 07, 2026",
+  "updated_at": "2026-08-08T13:27:07.942120+00:00",
+  "updated_at_pacific": "August 08, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1076,12 +1076,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8",
-          "ontario": 5,
+          "ontario": 17,
           "louisville": 4,
           "phoenix": 27,
           "dallas": 33,
           "chicago": 0,
-          "total": 69,
+          "total": 81,
           "notes": "",
           "spec_url": ""
         },
@@ -1166,12 +1166,12 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 17,
+          "ontario": 5,
           "louisville": 0,
           "phoenix": 12,
           "dallas": 15,
           "chicago": 60,
-          "total": 104,
+          "total": 92,
           "notes": "",
           "spec_url": ""
         },
