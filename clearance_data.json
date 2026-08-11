@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-10T13:55:59.151903+00:00",
-  "updated_at_pacific": "August 10, 2026",
+  "updated_at": "2026-08-11T13:55:17.130447+00:00",
+  "updated_at_pacific": "August 11, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -506,12 +506,12 @@
           "wattage": "",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 383,
+          "ontario": 382,
           "louisville": 39,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 422,
+          "total": 421,
           "notes": "",
           "spec_url": ""
         },
@@ -1166,12 +1166,12 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 5,
+          "ontario": 17,
           "louisville": 0,
           "phoenix": 12,
           "dallas": 15,
           "chicago": 60,
-          "total": 92,
+          "total": 104,
           "notes": "",
           "spec_url": ""
         },
@@ -2066,12 +2066,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 182,
+          "ontario": 154,
           "louisville": 57,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 472,
+          "total": 444,
           "notes": "",
           "spec_url": ""
         },
