@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-12T13:57:38.320410+00:00",
-  "updated_at_pacific": "August 12, 2026",
+  "updated_at": "2026-08-13T13:57:28.693355+00:00",
+  "updated_at_pacific": "August 13, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1166,18 +1166,18 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 5,
+          "ontario": 17,
           "louisville": 0,
           "phoenix": 12,
           "dallas": 15,
           "chicago": 60,
-          "total": 92,
+          "total": 104,
           "notes": "",
           "spec_url": ""
         },
         {
           "sku": "PT-DLSM-R-7I-15W-3CCT-EM",
-          "description": "Downlight Round",
+          "description": "Downlight Round + EM",
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
@@ -1222,7 +1222,7 @@
         },
         {
           "sku": "PT-DLSM-R-5I-10W-3CCT",
-          "description": "Downlight Round + EM",
+          "description": "Downlight Round",
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
@@ -2066,12 +2066,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 154,
+          "ontario": 140,
           "louisville": 57,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 444,
+          "total": 430,
           "notes": "",
           "spec_url": ""
         },
