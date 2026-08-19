@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-18T13:24:09.543712+00:00",
-  "updated_at_pacific": "August 18, 2026",
+  "updated_at": "2026-08-19T13:25:14.615360+00:00",
+  "updated_at_pacific": "August 19, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1376,12 +1376,12 @@
           "wattage": "10",
           "category": "Limited Stock - Downlight",
           "subcategory": "Retrofit Downlight Canless 277V",
-          "ontario": 37,
+          "ontario": 1,
           "louisville": 75,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 112,
+          "total": 76,
           "notes": "",
           "spec_url": ""
         },
@@ -2066,12 +2066,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 80,
+          "ontario": 56,
           "louisville": 57,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 370,
+          "total": 346,
           "notes": "",
           "spec_url": ""
         },
