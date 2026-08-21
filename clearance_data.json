@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-08-20T13:27:12.511142+00:00",
-  "updated_at_pacific": "August 20, 2026",
+  "updated_at": "2026-08-21T13:26:10.854593+00:00",
+  "updated_at_pacific": "August 21, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -536,12 +536,12 @@
           "wattage": "100",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-MO",
-          "ontario": 204,
+          "ontario": 203,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 204,
+          "total": 203,
           "notes": "",
           "spec_url": ""
         },
@@ -2067,11 +2067,11 @@
           "category": "Linear High Bay",
           "subcategory": "LHB",
           "ontario": 56,
-          "louisville": 57,
+          "louisville": 50,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 346,
+          "total": 339,
           "notes": "",
           "spec_url": ""
         },
@@ -2156,12 +2156,12 @@
           "wattage": "",
           "category": "Canopy",
           "subcategory": "Canopy",
-          "ontario": 231,
+          "ontario": 221,
           "louisville": 29,
           "phoenix": 30,
           "dallas": 20,
           "chicago": 0,
-          "total": 310,
+          "total": 300,
           "notes": "",
           "spec_url": ""
         },
