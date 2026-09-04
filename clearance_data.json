@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-03T16:36:55.133109+00:00",
-  "updated_at_pacific": "September 03, 2026",
+  "updated_at": "2026-09-04T16:32:02.984633+00:00",
+  "updated_at_pacific": "September 04, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -821,12 +821,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 315,
+          "ontario": 314,
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
           "chicago": 12,
-          "total": 328,
+          "total": 327,
           "notes": "",
           "spec_url": ""
         },
@@ -1012,7 +1012,7 @@
         },
         {
           "sku": "PT-BLP6-24-3CP-EM",
-          "description": "",
+          "description": "2x4 Back-Lit Panel with EM",
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
@@ -1094,9 +1094,9 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 1,
-          "dallas": 41,
+          "dallas": 31,
           "chicago": 24,
-          "total": 66,
+          "total": 56,
           "notes": "",
           "spec_url": ""
         },
@@ -2156,12 +2156,12 @@
           "wattage": "",
           "category": "Canopy",
           "subcategory": "Canopy",
-          "ontario": 221,
+          "ontario": 220,
           "louisville": 29,
           "phoenix": 30,
           "dallas": 20,
           "chicago": 0,
-          "total": 300,
+          "total": 299,
           "notes": "",
           "spec_url": ""
         },
