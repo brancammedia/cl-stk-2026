@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-04T16:32:02.984633+00:00",
-  "updated_at_pacific": "September 04, 2026",
+  "updated_at": "2026-09-05T15:27:26.613864+00:00",
+  "updated_at_pacific": "September 05, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -461,12 +461,12 @@
           "wattage": "45",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 15,
+          "ontario": 13,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 15,
+          "total": 13,
           "notes": "",
           "spec_url": ""
         },
@@ -1866,51 +1866,6 @@
           "spec_url": ""
         },
         {
-          "sku": "PT-DLFG-R-4I-9W-3CCT",
-          "description": "Floating Gimbal",
-          "wattage": "9",
-          "category": "Limited Stock - Downlight",
-          "subcategory": "Gimbal Downlight",
-          "ontario": 849,
-          "louisville": 131,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 980,
-          "notes": "",
-          "spec_url": "https://portorlighting.com/media/tariff/pt-dlfg-r-4i-9w-3cct.pdf"
-        },
-        {
-          "sku": "PT-DLG-R-3I-8W-3CCT",
-          "description": "Round Gimbal",
-          "wattage": "8",
-          "category": "Limited Stock - Downlight",
-          "subcategory": "Gimbal Downlight",
-          "ontario": 875,
-          "louisville": 166,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 1041,
-          "notes": "",
-          "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-3i-8w-3cct.pdf"
-        },
-        {
-          "sku": "PT-DLG-R-4I-12W-3CCT",
-          "description": "Round Gimbal",
-          "wattage": "12",
-          "category": "Limited Stock - Downlight",
-          "subcategory": "Gimbal Downlight",
-          "ontario": 495,
-          "louisville": 5,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 500,
-          "notes": "",
-          "spec_url": "https://portorlighting.com/media/tariff/pt-dlg-r-4i-12w-3cct.pdf"
-        },
-        {
           "sku": "PT-CBL-EX39-60W-5K",
           "description": "Corn Bulb Light",
           "wattage": "60",
@@ -2081,12 +2036,12 @@
           "wattage": "15",
           "category": "Round High Bay",
           "subcategory": "RHBE",
-          "ontario": 28,
+          "ontario": 21,
           "louisville": 7,
           "phoenix": 7,
           "dallas": 38,
           "chicago": 3,
-          "total": 83,
+          "total": 76,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
@@ -2571,7 +2526,7 @@
           "spec_url": ""
         }
       ],
-      "count": 171
+      "count": 168
     }
   }
 }
