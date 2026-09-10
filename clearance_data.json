@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T16:49:44.106397+00:00",
-  "updated_at_pacific": "September 09, 2026",
+  "updated_at": "2026-09-10T16:35:53.236860+00:00",
+  "updated_at_pacific": "September 10, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -506,12 +506,12 @@
           "wattage": "",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 382,
+          "ontario": 376,
           "louisville": 39,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 421,
+          "total": 415,
           "notes": "",
           "spec_url": ""
         },
@@ -1076,12 +1076,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8",
-          "ontario": 17,
+          "ontario": 15,
           "louisville": 4,
           "phoenix": 27,
           "dallas": 33,
           "chicago": 0,
-          "total": 81,
+          "total": 79,
           "notes": "",
           "spec_url": ""
         },
@@ -1976,12 +1976,12 @@
           "wattage": "N/A",
           "category": "Limited Stock - Flood Lights",
           "subcategory": "Accessories",
-          "ontario": 690,
+          "ontario": 682,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 690,
+          "total": 682,
           "notes": "",
           "spec_url": ""
         },
@@ -2021,12 +2021,12 @@
           "wattage": "",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 48,
+          "ontario": 40,
           "louisville": 50,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 331,
+          "total": 323,
           "notes": "",
           "spec_url": ""
         },
@@ -2061,26 +2061,11 @@
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
-          "sku": "PT-CAS1-40W-3CCT",
-          "description": "Canopy",
-          "wattage": "40",
-          "category": "Canopy",
-          "subcategory": "Canopy",
-          "ontario": 0,
-          "louisville": 0,
-          "phoenix": 0,
-          "dallas": 0,
-          "chicago": 0,
-          "total": 0,
-          "notes": "",
-          "spec_url": "https://portorlighting.com/media/tariff/pt-cas1-40w-3cct.pdf"
-        },
-        {
           "sku": "PT-CAS1-LW-3CP",
           "description": "Canopy",
           "wattage": "",
           "category": "Canopy",
-          "subcategory": "Canopy",
+          "subcategory": "",
           "ontario": 113,
           "louisville": 47,
           "phoenix": 0,
@@ -2095,7 +2080,7 @@
           "description": "Canopy",
           "wattage": "",
           "category": "Canopy",
-          "subcategory": "Canopy",
+          "subcategory": "",
           "ontario": 201,
           "louisville": 48,
           "phoenix": 0,
@@ -2110,7 +2095,7 @@
           "description": "Canopy",
           "wattage": "",
           "category": "Canopy",
-          "subcategory": "Canopy",
+          "subcategory": "",
           "ontario": 220,
           "louisville": 29,
           "phoenix": 30,
@@ -2125,7 +2110,7 @@
           "description": "Canopy",
           "wattage": "",
           "category": "Canopy",
-          "subcategory": "Canopy",
+          "subcategory": "",
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
@@ -2526,7 +2511,7 @@
           "spec_url": ""
         }
       ],
-      "count": 168
+      "count": 167
     }
   }
 }
