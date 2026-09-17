@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-16T17:13:05.382600+00:00",
-  "updated_at_pacific": "September 16, 2026",
+  "updated_at": "2026-09-17T17:12:13.376313+00:00",
+  "updated_at_pacific": "September 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -476,12 +476,12 @@
           "wattage": "75",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 789,
+          "ontario": 786,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 789,
+          "total": 786,
           "notes": "",
           "spec_url": ""
         },
@@ -825,8 +825,8 @@
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
-          "chicago": 12,
-          "total": 327,
+          "chicago": 5,
+          "total": 320,
           "notes": "",
           "spec_url": ""
         },
@@ -2036,12 +2036,12 @@
           "wattage": "210W",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 103,
+          "ontario": 66,
           "louisville": 50,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 386,
+          "total": 349,
           "notes": "",
           "spec_url": ""
         },
