@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T17:12:13.376313+00:00",
-  "updated_at_pacific": "September 17, 2026",
+  "updated_at": "2026-09-18T16:38:34.433756+00:00",
+  "updated_at_pacific": "September 18, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -825,8 +825,8 @@
           "louisville": 0,
           "phoenix": 1,
           "dallas": 0,
-          "chicago": 5,
-          "total": 320,
+          "chicago": 12,
+          "total": 327,
           "notes": "",
           "spec_url": ""
         },
@@ -986,12 +986,12 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 3,
+          "ontario": 2,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 1,
-          "total": 4,
+          "total": 3,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
@@ -1229,9 +1229,9 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 59,
+          "dallas": 55,
           "chicago": 21,
-          "total": 80,
+          "total": 76,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
@@ -1664,9 +1664,9 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 59,
+          "dallas": 55,
           "chicago": 21,
-          "total": 80,
+          "total": 76,
           "notes": "",
           "spec_url": ""
         },
@@ -1691,12 +1691,12 @@
           "wattage": "10",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 17,
+          "ontario": 13,
           "louisville": 57,
           "phoenix": 0,
           "dallas": 79,
           "chicago": 0,
-          "total": 153,
+          "total": 149,
           "notes": "",
           "spec_url": ""
         },
