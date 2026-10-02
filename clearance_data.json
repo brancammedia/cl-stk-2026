@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-01T18:31:44.513534+00:00",
-  "updated_at_pacific": "October 01, 2026",
+  "updated_at": "2026-10-02T17:58:40.599348+00:00",
+  "updated_at_pacific": "October 02, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -2366,12 +2366,12 @@
           "wattage": "N/A",
           "category": "Poles and Arms",
           "subcategory": "Poles and Arms",
-          "ontario": 103,
+          "ontario": 30,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 103,
+          "total": 30,
           "notes": "",
           "spec_url": ""
         },
