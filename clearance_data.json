@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-04T16:56:23.544719+00:00",
-  "updated_at_pacific": "October 04, 2026",
+  "updated_at": "2026-10-06T18:32:35.637196+00:00",
+  "updated_at_pacific": "October 06, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -386,12 +386,12 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 7,
+          "ontario": 6,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 7,
+          "total": 6,
           "notes": "",
           "spec_url": ""
         },
@@ -1169,9 +1169,9 @@
           "ontario": 250,
           "louisville": 10,
           "phoenix": 45,
-          "dallas": 33,
+          "dallas": 19,
           "chicago": 53,
-          "total": 391,
+          "total": 377,
           "notes": "",
           "spec_url": ""
         },
