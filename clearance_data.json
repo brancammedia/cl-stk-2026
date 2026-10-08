@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-07T19:02:15.513427+00:00",
-  "updated_at_pacific": "October 07, 2026",
+  "updated_at": "2026-10-08T18:57:33.586736+00:00",
+  "updated_at_pacific": "October 08, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -836,12 +836,12 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 514,
+          "ontario": 507,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 46,
-          "total": 560,
+          "total": 553,
           "notes": "",
           "spec_url": ""
         },
@@ -1035,8 +1035,8 @@
           "louisville": 0,
           "phoenix": 11,
           "dallas": 0,
-          "chicago": 117,
-          "total": 141,
+          "chicago": 81,
+          "total": 105,
           "notes": "",
           "spec_url": ""
         },
@@ -1065,8 +1065,8 @@
           "louisville": 0,
           "phoenix": 2,
           "dallas": 0,
-          "chicago": 3,
-          "total": 5,
+          "chicago": 0,
+          "total": 2,
           "notes": "",
           "spec_url": ""
         },
@@ -1230,8 +1230,8 @@
           "louisville": 40,
           "phoenix": 0,
           "dallas": 55,
-          "chicago": 21,
-          "total": 116,
+          "chicago": 13,
+          "total": 108,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
@@ -1665,8 +1665,8 @@
           "louisville": 40,
           "phoenix": 0,
           "dallas": 55,
-          "chicago": 21,
-          "total": 116,
+          "chicago": 13,
+          "total": 108,
           "notes": "",
           "spec_url": ""
         },
@@ -2036,12 +2036,12 @@
           "wattage": "210W",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 39,
+          "ontario": 38,
           "louisville": 53,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 80,
-          "total": 325,
+          "total": 324,
           "notes": "",
           "spec_url": ""
         },
