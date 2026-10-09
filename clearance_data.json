@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-08T18:57:33.586736+00:00",
-  "updated_at_pacific": "October 08, 2026",
+  "updated_at": "2026-10-09T18:27:42.185048+00:00",
+  "updated_at_pacific": "October 09, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -555,8 +555,8 @@
           "louisville": 17,
           "phoenix": 0,
           "dallas": 0,
-          "chicago": 28,
-          "total": 52,
+          "chicago": 9,
+          "total": 33,
           "notes": "",
           "spec_url": ""
         },
@@ -2066,12 +2066,12 @@
           "wattage": "15",
           "category": "Round High Bay",
           "subcategory": "RHBE",
-          "ontario": 20,
+          "ontario": 10,
           "louisville": 1,
           "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 26,
+          "total": 16,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
@@ -2141,12 +2141,12 @@
           "wattage": "15",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
-          "ontario": 71,
+          "ontario": 1,
           "louisville": 32,
           "phoenix": 30,
           "dallas": 24,
           "chicago": 0,
-          "total": 157,
+          "total": 87,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-15w-3cct.pdf"
         },
