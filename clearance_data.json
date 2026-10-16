@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-15T17:15:49.196160+00:00",
-  "updated_at_pacific": "October 15, 2026",
+  "updated_at": "2026-10-16T16:51:36.244202+00:00",
+  "updated_at_pacific": "October 16, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1035,8 +1035,8 @@
           "louisville": 0,
           "phoenix": 11,
           "dallas": 0,
-          "chicago": 81,
-          "total": 105,
+          "chicago": 57,
+          "total": 81,
           "notes": "",
           "spec_url": ""
         },
@@ -2067,11 +2067,11 @@
           "category": "Round High Bay",
           "subcategory": "RHBE",
           "ontario": 10,
-          "louisville": 1,
+          "louisville": 0,
           "phoenix": 5,
           "dallas": 0,
           "chicago": 0,
-          "total": 16,
+          "total": 15,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
