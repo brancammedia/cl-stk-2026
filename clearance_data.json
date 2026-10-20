@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-19T18:47:47.710794+00:00",
-  "updated_at_pacific": "October 19, 2026",
+  "updated_at": "2026-10-20T17:25:47.829851+00:00",
+  "updated_at_pacific": "October 20, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -551,12 +551,12 @@
           "wattage": "200",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-WD",
-          "ontario": 115,
+          "ontario": 103,
           "louisville": 17,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 9,
-          "total": 141,
+          "total": 129,
           "notes": "",
           "spec_url": ""
         },
@@ -1183,10 +1183,10 @@
           "subcategory": "Surface Mount",
           "ontario": 13,
           "louisville": 0,
-          "phoenix": 12,
+          "phoenix": 10,
           "dallas": 15,
           "chicago": 60,
-          "total": 100,
+          "total": 98,
           "notes": "",
           "spec_url": ""
         },
@@ -2007,11 +2007,11 @@
           "category": "Linear High Bay",
           "subcategory": "LHB",
           "ontario": 0,
-          "louisville": 2,
+          "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2,
+          "total": 0,
           "notes": "",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
