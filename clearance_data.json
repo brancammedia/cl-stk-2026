@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-20T17:25:47.829851+00:00",
-  "updated_at_pacific": "October 20, 2026",
+  "updated_at": "2026-10-21T17:33:50.785090+00:00",
+  "updated_at_pacific": "October 21, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -17,7 +17,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 32,
-          "notes": "",
+          "notes": "32",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2-200w-50k.pdf"
         },
         {
@@ -32,7 +32,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 58,
-          "notes": "",
+          "notes": "58",
           "spec_url": ""
         },
         {
@@ -47,7 +47,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 63,
-          "notes": "",
+          "notes": "90",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2-375w-50k.pdf"
         },
         {
@@ -62,7 +62,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 269,
-          "notes": "",
+          "notes": "269",
           "spec_url": ""
         },
         {
@@ -77,7 +77,7 @@
           "dallas": 0,
           "chicago": 4,
           "total": 4,
-          "notes": "",
+          "notes": "8",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2n-150-3p-50k-w.pdf"
         },
         {
@@ -92,7 +92,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": "https://portorlighting.com/media/tariff/pt-al2n-300-3p-50k-w.pdf"
         },
         {
@@ -107,7 +107,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -122,7 +122,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 321,
-          "notes": "",
+          "notes": "321",
           "spec_url": ""
         },
         {
@@ -137,7 +137,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 800,
-          "notes": "",
+          "notes": "800",
           "spec_url": ""
         },
         {
@@ -152,7 +152,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 196,
-          "notes": "",
+          "notes": "196",
           "spec_url": ""
         },
         {
@@ -167,7 +167,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 30,
-          "notes": "",
+          "notes": "30",
           "spec_url": ""
         },
         {
@@ -182,7 +182,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 238,
-          "notes": "",
+          "notes": "238",
           "spec_url": ""
         },
         {
@@ -197,7 +197,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 298,
-          "notes": "",
+          "notes": "298",
           "spec_url": ""
         },
         {
@@ -212,7 +212,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1,
-          "notes": "",
+          "notes": "2",
           "spec_url": "https://portorlighting.com/media/tariff/pt-lhtl-mw-3cp.pdf"
         },
         {
@@ -227,7 +227,7 @@
           "dallas": 0,
           "chicago": 16,
           "total": 349,
-          "notes": "",
+          "notes": "399",
           "spec_url": ""
         },
         {
@@ -242,7 +242,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 303,
-          "notes": "",
+          "notes": "327",
           "spec_url": ""
         },
         {
@@ -257,7 +257,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 499,
-          "notes": "",
+          "notes": "538",
           "spec_url": ""
         },
         {
@@ -272,7 +272,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 244,
-          "notes": "",
+          "notes": "248",
           "spec_url": ""
         },
         {
@@ -287,7 +287,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 335,
-          "notes": "",
+          "notes": "391",
           "spec_url": ""
         },
         {
@@ -302,7 +302,7 @@
           "dallas": 0,
           "chicago": 5,
           "total": 29,
-          "notes": "",
+          "notes": "34",
           "spec_url": ""
         },
         {
@@ -317,7 +317,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 698,
-          "notes": "",
+          "notes": "712",
           "spec_url": ""
         },
         {
@@ -332,7 +332,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 223,
-          "notes": "",
+          "notes": "223",
           "spec_url": ""
         },
         {
@@ -347,7 +347,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 271,
-          "notes": "",
+          "notes": "271",
           "spec_url": ""
         },
         {
@@ -362,7 +362,7 @@
           "dallas": 1,
           "chicago": 0,
           "total": 1,
-          "notes": "",
+          "notes": "2",
           "spec_url": "https://portorlighting.com/media/tariff/pt-waa-4f9i-3cp.pdf"
         },
         {
@@ -377,7 +377,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -392,7 +392,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 6,
-          "notes": "",
+          "notes": "6",
           "spec_url": ""
         },
         {
@@ -407,7 +407,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 256,
-          "notes": "",
+          "notes": "256",
           "spec_url": ""
         },
         {
@@ -422,7 +422,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 158,
-          "notes": "",
+          "notes": "158",
           "spec_url": ""
         },
         {
@@ -437,7 +437,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 11,
-          "notes": "",
+          "notes": "11",
           "spec_url": ""
         },
         {
@@ -452,7 +452,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 238,
-          "notes": "",
+          "notes": "238",
           "spec_url": ""
         },
         {
@@ -467,7 +467,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -482,7 +482,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 786,
-          "notes": "",
+          "notes": "786",
           "spec_url": ""
         },
         {
@@ -497,7 +497,7 @@
           "dallas": 20,
           "chicago": 35,
           "total": 647,
-          "notes": "",
+          "notes": "702",
           "spec_url": ""
         },
         {
@@ -512,7 +512,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 411,
-          "notes": "",
+          "notes": "450",
           "spec_url": ""
         },
         {
@@ -527,7 +527,7 @@
           "dallas": 21,
           "chicago": 0,
           "total": 184,
-          "notes": "",
+          "notes": "218",
           "spec_url": ""
         },
         {
@@ -542,7 +542,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 168,
-          "notes": "",
+          "notes": "168",
           "spec_url": ""
         },
         {
@@ -557,7 +557,7 @@
           "dallas": 0,
           "chicago": 9,
           "total": 129,
-          "notes": "",
+          "notes": "155",
           "spec_url": ""
         },
         {
@@ -572,7 +572,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 120,
-          "notes": "",
+          "notes": "120",
           "spec_url": ""
         },
         {
@@ -587,7 +587,7 @@
           "dallas": 0,
           "chicago": 50,
           "total": 595,
-          "notes": "",
+          "notes": "645",
           "spec_url": ""
         },
         {
@@ -602,7 +602,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 50,
-          "notes": "",
+          "notes": "50",
           "spec_url": ""
         },
         {
@@ -617,7 +617,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 50,
-          "notes": "",
+          "notes": "50",
           "spec_url": ""
         },
         {
@@ -632,7 +632,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 49,
-          "notes": "",
+          "notes": "49",
           "spec_url": ""
         },
         {
@@ -647,7 +647,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 22,
-          "notes": "",
+          "notes": "22",
           "spec_url": ""
         },
         {
@@ -662,7 +662,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 20,
-          "notes": "",
+          "notes": "20",
           "spec_url": ""
         },
         {
@@ -677,7 +677,7 @@
           "dallas": 0,
           "chicago": 50,
           "total": 335,
-          "notes": "",
+          "notes": "385",
           "spec_url": ""
         },
         {
@@ -692,7 +692,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 50,
-          "notes": "",
+          "notes": "50",
           "spec_url": ""
         },
         {
@@ -707,7 +707,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 32,
-          "notes": "",
+          "notes": "32",
           "spec_url": ""
         },
         {
@@ -722,7 +722,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 43,
-          "notes": "",
+          "notes": "43",
           "spec_url": ""
         },
         {
@@ -737,7 +737,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 4,
-          "notes": "",
+          "notes": "4",
           "spec_url": ""
         },
         {
@@ -752,7 +752,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 44,
-          "notes": "",
+          "notes": "44",
           "spec_url": ""
         },
         {
@@ -767,7 +767,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 47,
-          "notes": "",
+          "notes": "47",
           "spec_url": ""
         },
         {
@@ -782,7 +782,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -797,7 +797,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 120,
-          "notes": "",
+          "notes": "120",
           "spec_url": ""
         },
         {
@@ -812,7 +812,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 90,
-          "notes": "",
+          "notes": "90",
           "spec_url": ""
         },
         {
@@ -827,7 +827,7 @@
           "dallas": 0,
           "chicago": 12,
           "total": 327,
-          "notes": "",
+          "notes": "340",
           "spec_url": ""
         },
         {
@@ -842,7 +842,7 @@
           "dallas": 0,
           "chicago": 46,
           "total": 553,
-          "notes": "",
+          "notes": "599",
           "spec_url": ""
         },
         {
@@ -857,7 +857,7 @@
           "dallas": 20,
           "chicago": 10,
           "total": 469,
-          "notes": "",
+          "notes": "536",
           "spec_url": ""
         },
         {
@@ -872,7 +872,7 @@
           "dallas": 20,
           "chicago": 20,
           "total": 169,
-          "notes": "",
+          "notes": "209",
           "spec_url": ""
         },
         {
@@ -887,7 +887,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 82,
-          "notes": "",
+          "notes": "82",
           "spec_url": ""
         },
         {
@@ -902,7 +902,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 40,
-          "notes": "",
+          "notes": "40",
           "spec_url": ""
         },
         {
@@ -917,7 +917,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 3,
-          "notes": "",
+          "notes": "6",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp3-14-3cp.pdf"
         },
         {
@@ -932,7 +932,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 65,
-          "notes": "",
+          "notes": "65",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp4-22-3cp-em.pdf"
         },
         {
@@ -947,7 +947,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -962,7 +962,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -977,7 +977,7 @@
           "dallas": 0,
           "chicago": 59,
           "total": 116,
-          "notes": "",
+          "notes": "175",
           "spec_url": ""
         },
         {
@@ -992,7 +992,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 2,
-          "notes": "",
+          "notes": "2",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
         {
@@ -1007,7 +1007,7 @@
           "dallas": 9,
           "chicago": 0,
           "total": 37,
-          "notes": "",
+          "notes": "62",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-22-3cp.pdf"
         },
         {
@@ -1022,7 +1022,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -1037,7 +1037,7 @@
           "dallas": 0,
           "chicago": 57,
           "total": 81,
-          "notes": "",
+          "notes": "149",
           "spec_url": ""
         },
         {
@@ -1052,7 +1052,7 @@
           "dallas": 0,
           "chicago": 4,
           "total": 9,
-          "notes": "",
+          "notes": "13",
           "spec_url": ""
         },
         {
@@ -1067,7 +1067,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 9,
-          "notes": "",
+          "notes": "18",
           "spec_url": ""
         },
         {
@@ -1082,7 +1082,7 @@
           "dallas": 0,
           "chicago": 10,
           "total": 10,
-          "notes": "",
+          "notes": "20",
           "spec_url": ""
         },
         {
@@ -1091,13 +1091,13 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8",
-          "ontario": 15,
+          "ontario": 13,
           "louisville": 2,
           "phoenix": 26,
           "dallas": 31,
           "chicago": 0,
-          "total": 74,
-          "notes": "",
+          "total": 72,
+          "notes": "131",
           "spec_url": ""
         },
         {
@@ -1112,7 +1112,7 @@
           "dallas": 31,
           "chicago": 24,
           "total": 61,
-          "notes": "",
+          "notes": "122",
           "spec_url": ""
         },
         {
@@ -1127,7 +1127,7 @@
           "dallas": 0,
           "chicago": 36,
           "total": 127,
-          "notes": "",
+          "notes": "174",
           "spec_url": ""
         },
         {
@@ -1142,7 +1142,7 @@
           "dallas": 0,
           "chicago": 2,
           "total": 15,
-          "notes": "",
+          "notes": "17",
           "spec_url": ""
         },
         {
@@ -1157,7 +1157,7 @@
           "dallas": 0,
           "chicago": 61,
           "total": 423,
-          "notes": "",
+          "notes": "607",
           "spec_url": ""
         },
         {
@@ -1172,7 +1172,7 @@
           "dallas": 19,
           "chicago": 53,
           "total": 377,
-          "notes": "",
+          "notes": "504",
           "spec_url": ""
         },
         {
@@ -1187,7 +1187,7 @@
           "dallas": 15,
           "chicago": 60,
           "total": 98,
-          "notes": "",
+          "notes": "183",
           "spec_url": ""
         },
         {
@@ -1202,7 +1202,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-7i-15w-3cct-em.pdf"
         },
         {
@@ -1217,7 +1217,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 241,
-          "notes": "",
+          "notes": "241",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-9i-18w-3cct.pdf"
         },
         {
@@ -1232,7 +1232,7 @@
           "dallas": 55,
           "chicago": 13,
           "total": 105,
-          "notes": "",
+          "notes": "210",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
         {
@@ -1247,7 +1247,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 20,
-          "notes": "",
+          "notes": "20",
           "spec_url": ""
         },
         {
@@ -1262,7 +1262,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 216,
-          "notes": "",
+          "notes": "216",
           "spec_url": ""
         },
         {
@@ -1277,7 +1277,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 663,
-          "notes": "",
+          "notes": "663",
           "spec_url": ""
         },
         {
@@ -1292,7 +1292,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 680,
-          "notes": "",
+          "notes": "680",
           "spec_url": ""
         },
         {
@@ -1307,7 +1307,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 269,
-          "notes": "",
+          "notes": "269",
           "spec_url": ""
         },
         {
@@ -1322,7 +1322,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 662,
-          "notes": "",
+          "notes": "662",
           "spec_url": ""
         },
         {
@@ -1337,7 +1337,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 676,
-          "notes": "",
+          "notes": "676",
           "spec_url": ""
         },
         {
@@ -1352,7 +1352,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 836,
-          "notes": "",
+          "notes": "836",
           "spec_url": ""
         },
         {
@@ -1367,7 +1367,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 961,
-          "notes": "",
+          "notes": "961",
           "spec_url": ""
         },
         {
@@ -1382,7 +1382,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1040,
-          "notes": "",
+          "notes": "1,040",
           "spec_url": ""
         },
         {
@@ -1397,7 +1397,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 90,
-          "notes": "",
+          "notes": "165",
           "spec_url": ""
         },
         {
@@ -1412,7 +1412,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 24,
-          "notes": "",
+          "notes": "47",
           "spec_url": ""
         },
         {
@@ -1427,7 +1427,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1,
-          "notes": "",
+          "notes": "2",
           "spec_url": ""
         },
         {
@@ -1442,7 +1442,7 @@
           "dallas": 5,
           "chicago": 0,
           "total": 19,
-          "notes": "",
+          "notes": "32",
           "spec_url": ""
         },
         {
@@ -1457,7 +1457,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 480,
-          "notes": "",
+          "notes": "579",
           "spec_url": ""
         },
         {
@@ -1472,7 +1472,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 3,
-          "notes": "",
+          "notes": "3",
           "spec_url": ""
         },
         {
@@ -1487,7 +1487,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 17,
-          "notes": "",
+          "notes": "25",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-7i-15w-3cct.pdf"
         },
         {
@@ -1502,7 +1502,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 398,
-          "notes": "",
+          "notes": "438",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-9i-18w-3cct.pdf"
         },
         {
@@ -1517,7 +1517,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 513,
-          "notes": "",
+          "notes": "526",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-12i-22w-3cct.pdf"
         },
         {
@@ -1532,7 +1532,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 120,
-          "notes": "",
+          "notes": "240",
           "spec_url": ""
         },
         {
@@ -1547,7 +1547,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 2147,
-          "notes": "",
+          "notes": "2,147",
           "spec_url": "https://portorlighting.com/media/tariff/pt-ddl-8i-22w-5cct.pdf"
         },
         {
@@ -1562,7 +1562,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 89,
-          "notes": "",
+          "notes": "123",
           "spec_url": ""
         },
         {
@@ -1577,7 +1577,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 144,
-          "notes": "",
+          "notes": "144",
           "spec_url": ""
         },
         {
@@ -1592,7 +1592,7 @@
           "dallas": 5,
           "chicago": 0,
           "total": 14,
-          "notes": "",
+          "notes": "27",
           "spec_url": ""
         },
         {
@@ -1607,7 +1607,7 @@
           "dallas": 72,
           "chicago": 0,
           "total": 81,
-          "notes": "",
+          "notes": "153",
           "spec_url": ""
         },
         {
@@ -1622,7 +1622,7 @@
           "dallas": 22,
           "chicago": 0,
           "total": 215,
-          "notes": "",
+          "notes": "291",
           "spec_url": ""
         },
         {
@@ -1637,7 +1637,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 55,
-          "notes": "",
+          "notes": "55",
           "spec_url": ""
         },
         {
@@ -1652,7 +1652,7 @@
           "dallas": 66,
           "chicago": 41,
           "total": 150,
-          "notes": "",
+          "notes": "300",
           "spec_url": ""
         },
         {
@@ -1667,7 +1667,7 @@
           "dallas": 55,
           "chicago": 13,
           "total": 105,
-          "notes": "",
+          "notes": "210",
           "spec_url": ""
         },
         {
@@ -1682,7 +1682,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 316,
-          "notes": "",
+          "notes": "316",
           "spec_url": ""
         },
         {
@@ -1697,7 +1697,7 @@
           "dallas": 9,
           "chicago": 0,
           "total": 79,
-          "notes": "",
+          "notes": "145",
           "spec_url": ""
         },
         {
@@ -1712,7 +1712,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 530,
-          "notes": "",
+          "notes": "530",
           "spec_url": ""
         },
         {
@@ -1727,7 +1727,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 499,
-          "notes": "",
+          "notes": "499",
           "spec_url": ""
         },
         {
@@ -1742,7 +1742,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 860,
-          "notes": "",
+          "notes": "860",
           "spec_url": ""
         },
         {
@@ -1757,7 +1757,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1800,
-          "notes": "",
+          "notes": "1,800",
           "spec_url": ""
         },
         {
@@ -1772,7 +1772,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -1787,7 +1787,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -1802,7 +1802,7 @@
           "dallas": 27,
           "chicago": 0,
           "total": 562,
-          "notes": "",
+          "notes": "589",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dls-s-4i-9w-3cct.pdf"
         },
         {
@@ -1817,7 +1817,7 @@
           "dallas": 107,
           "chicago": 0,
           "total": 713,
-          "notes": "",
+          "notes": "820",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dls-s-6i-12w-3cct.pdf"
         },
         {
@@ -1832,7 +1832,7 @@
           "dallas": 23,
           "chicago": 0,
           "total": 79,
-          "notes": "",
+          "notes": "158",
           "spec_url": ""
         },
         {
@@ -1847,7 +1847,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1469,
-          "notes": "",
+          "notes": "1,632",
           "spec_url": ""
         },
         {
@@ -1862,7 +1862,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 15,
-          "notes": "",
+          "notes": "30",
           "spec_url": ""
         },
         {
@@ -1877,7 +1877,7 @@
           "dallas": 42,
           "chicago": 0,
           "total": 427,
-          "notes": "",
+          "notes": "474",
           "spec_url": ""
         },
         {
@@ -1892,7 +1892,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 68,
-          "notes": "",
+          "notes": "68",
           "spec_url": ""
         },
         {
@@ -1907,7 +1907,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 62,
-          "notes": "",
+          "notes": "62",
           "spec_url": ""
         },
         {
@@ -1922,7 +1922,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 267,
-          "notes": "",
+          "notes": "267",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
@@ -1937,7 +1937,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 295,
-          "notes": "",
+          "notes": "295",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-5k-ub.pdf"
         },
         {
@@ -1952,7 +1952,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 246,
-          "notes": "",
+          "notes": "246",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-30w-3k-ub.pdf"
         },
         {
@@ -1967,7 +1967,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 80,
-          "notes": "",
+          "notes": "80",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-30w-5k-ub.pdf"
         },
         {
@@ -1982,7 +1982,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 185,
-          "notes": "",
+          "notes": "185",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-50w-3k-ub.pdf"
         },
         {
@@ -1997,7 +1997,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 682,
-          "notes": "",
+          "notes": "682",
           "spec_url": ""
         },
         {
@@ -2012,7 +2012,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
@@ -2027,7 +2027,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 0,
-          "notes": "",
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -2042,7 +2042,7 @@
           "dallas": 125,
           "chicago": 22,
           "total": 266,
-          "notes": "",
+          "notes": "494",
           "spec_url": ""
         },
         {
@@ -2057,7 +2057,7 @@
           "dallas": 89,
           "chicago": 3,
           "total": 107,
-          "notes": "",
+          "notes": "213",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
@@ -2072,7 +2072,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 15,
-          "notes": "",
+          "notes": "20",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
@@ -2087,7 +2087,7 @@
           "dallas": 0,
           "chicago": 24,
           "total": 182,
-          "notes": "",
+          "notes": "251",
           "spec_url": ""
         },
         {
@@ -2102,7 +2102,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 249,
-          "notes": "",
+          "notes": "297",
           "spec_url": ""
         },
         {
@@ -2117,7 +2117,7 @@
           "dallas": 20,
           "chicago": 0,
           "total": 283,
-          "notes": "",
+          "notes": "362",
           "spec_url": ""
         },
         {
@@ -2132,7 +2132,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 20,
-          "notes": "",
+          "notes": "40",
           "spec_url": ""
         },
         {
@@ -2147,7 +2147,7 @@
           "dallas": 24,
           "chicago": 0,
           "total": 87,
-          "notes": "",
+          "notes": "173",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-15w-3cct.pdf"
         },
         {
@@ -2162,13 +2162,13 @@
           "dallas": 14,
           "chicago": 0,
           "total": 126,
-          "notes": "",
+          "notes": "249",
           "spec_url": "https://portorlighting.com/media/tariff/pt-wpm2-30w-3cct.pdf"
         },
         {
           "sku": "PT-WPR-HW-3CP",
           "description": "Wall Pack",
-          "wattage": "",
+          "wattage": "30",
           "category": "Wall Pack Mini",
           "subcategory": "Wall Pack Mini",
           "ontario": 0,
@@ -2177,22 +2177,52 @@
           "dallas": 0,
           "chicago": 3,
           "total": 3,
-          "notes": "",
+          "notes": "6",
           "spec_url": ""
         },
         {
           "sku": "PT-WPH3-LW-3CP",
           "description": "Wall Pack",
           "wattage": "",
-          "category": "Wall Pack Mini",
-          "subcategory": "Wall Pack Mini",
+          "category": "Wall Pack",
+          "subcategory": "Wall Pack",
           "ontario": 0,
           "louisville": 24,
           "phoenix": 6,
           "dallas": 0,
           "chicago": 1,
           "total": 31,
-          "notes": "",
+          "notes": "62",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-WPH3-HW-3CP",
+          "description": "Wall Pack",
+          "wattage": "",
+          "category": "Wall Pack",
+          "subcategory": "Wall Pack",
+          "ontario": 0,
+          "louisville": 6,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 0,
+          "total": 6,
+          "notes": "12",
+          "spec_url": ""
+        },
+        {
+          "sku": "PT-WPR-HW-3CP",
+          "description": "Wall Pack",
+          "wattage": "",
+          "category": "Wall Pack",
+          "subcategory": "Wall Pack",
+          "ontario": 0,
+          "louisville": 0,
+          "phoenix": 0,
+          "dallas": 0,
+          "chicago": 3,
+          "total": 3,
+          "notes": "6",
           "spec_url": ""
         },
         {
@@ -2207,7 +2237,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 449,
-          "notes": "",
+          "notes": "449",
           "spec_url": ""
         },
         {
@@ -2222,7 +2252,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 620,
-          "notes": "",
+          "notes": "620",
           "spec_url": ""
         },
         {
@@ -2237,7 +2267,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 154,
-          "notes": "",
+          "notes": "154",
           "spec_url": ""
         },
         {
@@ -2252,7 +2282,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1983,
-          "notes": "",
+          "notes": "1,983",
           "spec_url": ""
         },
         {
@@ -2267,7 +2297,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 316,
-          "notes": "",
+          "notes": "316",
           "spec_url": ""
         },
         {
@@ -2282,7 +2312,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 34,
-          "notes": "",
+          "notes": "34",
           "spec_url": ""
         },
         {
@@ -2297,7 +2327,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 27,
-          "notes": "",
+          "notes": "27",
           "spec_url": ""
         },
         {
@@ -2312,7 +2342,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 91,
-          "notes": "",
+          "notes": "91",
           "spec_url": ""
         },
         {
@@ -2327,7 +2357,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 117,
-          "notes": "",
+          "notes": "117",
           "spec_url": ""
         },
         {
@@ -2342,7 +2372,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 1,
-          "notes": "",
+          "notes": "1",
           "spec_url": ""
         },
         {
@@ -2357,7 +2387,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 4,
-          "notes": "",
+          "notes": "4",
           "spec_url": ""
         },
         {
@@ -2372,7 +2402,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 30,
-          "notes": "",
+          "notes": "30",
           "spec_url": ""
         },
         {
@@ -2387,7 +2417,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 16,
-          "notes": "",
+          "notes": "16",
           "spec_url": ""
         },
         {
@@ -2402,7 +2432,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 75,
-          "notes": "",
+          "notes": "75",
           "spec_url": ""
         },
         {
@@ -2417,7 +2447,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 35,
-          "notes": "",
+          "notes": "35",
           "spec_url": ""
         },
         {
@@ -2432,7 +2462,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 24,
-          "notes": "",
+          "notes": "24",
           "spec_url": ""
         },
         {
@@ -2447,7 +2477,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 5,
-          "notes": "",
+          "notes": "5",
           "spec_url": ""
         },
         {
@@ -2462,7 +2492,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 13,
-          "notes": "",
+          "notes": "13",
           "spec_url": ""
         },
         {
@@ -2477,7 +2507,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 68,
-          "notes": "",
+          "notes": "68",
           "spec_url": ""
         },
         {
@@ -2492,7 +2522,7 @@
           "dallas": 0,
           "chicago": 0,
           "total": 50,
-          "notes": "",
+          "notes": "50",
           "spec_url": ""
         },
         {
@@ -2507,11 +2537,11 @@
           "dallas": 0,
           "chicago": 0,
           "total": 94,
-          "notes": "",
+          "notes": "94",
           "spec_url": ""
         }
       ],
-      "count": 167
+      "count": 169
     }
   }
 }
