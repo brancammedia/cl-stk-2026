@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-21T17:33:50.785090+00:00",
-  "updated_at_pacific": "October 21, 2026",
+  "updated_at": "2026-10-22T17:29:42.648692+00:00",
+  "updated_at_pacific": "October 22, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1196,13 +1196,13 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 0,
+          "ontario": 316,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "0",
+          "total": 316,
+          "notes": "316",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-7i-15w-3cct-em.pdf"
         },
         {
@@ -1227,12 +1227,12 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
           "ontario": 0,
-          "louisville": 37,
+          "louisville": 0,
           "phoenix": 0,
-          "dallas": 55,
+          "dallas": 22,
           "chicago": 13,
-          "total": 105,
-          "notes": "210",
+          "total": 35,
+          "notes": "70",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
         {
@@ -1662,12 +1662,12 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
           "ontario": 0,
-          "louisville": 37,
+          "louisville": 0,
           "phoenix": 0,
-          "dallas": 55,
+          "dallas": 22,
           "chicago": 13,
-          "total": 105,
-          "notes": "210",
+          "total": 35,
+          "notes": "70",
           "spec_url": ""
         },
         {
