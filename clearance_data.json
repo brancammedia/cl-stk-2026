@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-23T17:21:38.288646+00:00",
-  "updated_at_pacific": "October 23, 2026",
+  "updated_at": "2026-10-24T16:09:49.107907+00:00",
+  "updated_at_pacific": "October 24, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -536,13 +536,13 @@
           "wattage": "",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 148,
+          "ontario": 106,
           "louisville": 13,
           "phoenix": 0,
           "dallas": 21,
           "chicago": 0,
-          "total": 182,
-          "notes": "216",
+          "total": 140,
+          "notes": "174",
           "spec_url": ""
         },
         {
@@ -941,13 +941,13 @@
           "wattage": "25W-30W-40W",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP4",
-          "ontario": 65,
+          "ontario": 62,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 65,
-          "notes": "65",
+          "total": 62,
+          "notes": "62",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp4-22-3cp-em.pdf"
         },
         {
