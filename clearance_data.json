@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-26T18:48:52.486168+00:00",
-  "updated_at_pacific": "October 26, 2026",
+  "updated_at": "2026-10-27T18:09:31.912181+00:00",
+  "updated_at_pacific": "October 27, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1811,13 +1811,13 @@
           "wattage": "9",
           "category": "Limited Stock - Downlight",
           "subcategory": "Slim Downlight Square",
-          "ontario": 535,
+          "ontario": 534,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 27,
           "chicago": 0,
-          "total": 562,
-          "notes": "589",
+          "total": 561,
+          "notes": "588",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dls-s-4i-9w-3cct.pdf"
         },
         {
