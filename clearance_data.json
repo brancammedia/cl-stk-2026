@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-27T18:09:31.912181+00:00",
-  "updated_at_pacific": "October 27, 2026",
+  "updated_at": "2026-10-28T18:26:13.246680+00:00",
+  "updated_at_pacific": "October 28, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -551,13 +551,13 @@
           "wattage": "100",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-MO",
-          "ontario": 168,
+          "ontario": 164,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 168,
-          "notes": "168",
+          "total": 164,
+          "notes": "164",
           "spec_url": ""
         },
         {
@@ -1001,13 +1001,13 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 2,
+          "ontario": 1,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2,
-          "notes": "2",
+          "total": 1,
+          "notes": "1",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
         {
@@ -1166,13 +1166,13 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 239,
+          "ontario": 232,
           "louisville": 81,
           "phoenix": 42,
           "dallas": 0,
           "chicago": 61,
-          "total": 423,
-          "notes": "607",
+          "total": 416,
+          "notes": "600",
           "spec_url": ""
         },
         {
@@ -1946,13 +1946,13 @@
           "wattage": "15",
           "category": "Limited Stock - Flood Lights",
           "subcategory": "Mini Flood Light Fixture",
-          "ontario": 295,
+          "ontario": 291,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 295,
-          "notes": "295",
+          "total": 291,
+          "notes": "291",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-5k-ub.pdf"
         },
         {
@@ -2051,13 +2051,13 @@
           "wattage": "210W",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 38,
+          "ontario": 18,
           "louisville": 53,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 22,
-          "total": 266,
-          "notes": "494",
+          "total": 246,
+          "notes": "474",
           "spec_url": ""
         },
         {
@@ -2069,10 +2069,10 @@
           "ontario": 1,
           "louisville": 7,
           "phoenix": 7,
-          "dallas": 89,
+          "dallas": 86,
           "chicago": 3,
-          "total": 107,
-          "notes": "213",
+          "total": 104,
+          "notes": "207",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
@@ -2202,12 +2202,12 @@
           "category": "Wall Pack",
           "subcategory": "Wall Pack",
           "ontario": 0,
-          "louisville": 24,
+          "louisville": 22,
           "phoenix": 6,
           "dallas": 0,
           "chicago": 1,
-          "total": 31,
-          "notes": "62",
+          "total": 29,
+          "notes": "58",
           "spec_url": ""
         },
         {
@@ -2276,13 +2276,13 @@
           "wattage": "30",
           "category": "Tubes",
           "subcategory": "Integrated Tube",
-          "ontario": 154,
+          "ontario": 134,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 154,
-          "notes": "154",
+          "total": 134,
+          "notes": "134",
           "spec_url": ""
         },
         {
