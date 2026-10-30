@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-29T18:35:50.094273+00:00",
-  "updated_at_pacific": "October 29, 2026",
+  "updated_at": "2026-10-30T18:07:51.146785+00:00",
+  "updated_at_pacific": "October 30, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -566,13 +566,13 @@
           "wattage": "200",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-WD",
-          "ontario": 103,
+          "ontario": 93,
           "louisville": 17,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 9,
-          "total": 129,
-          "notes": "155",
+          "total": 119,
+          "notes": "145",
           "spec_url": ""
         },
         {
@@ -1166,13 +1166,13 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 232,
+          "ontario": 229,
           "louisville": 81,
           "phoenix": 42,
           "dallas": 0,
           "chicago": 61,
-          "total": 416,
-          "notes": "600",
+          "total": 413,
+          "notes": "597",
           "spec_url": ""
         },
         {
@@ -2126,13 +2126,13 @@
           "wattage": "",
           "category": "Canopy",
           "subcategory": "",
-          "ontario": 204,
+          "ontario": 185,
           "louisville": 29,
           "phoenix": 30,
           "dallas": 20,
           "chicago": 0,
-          "total": 283,
-          "notes": "362",
+          "total": 264,
+          "notes": "343",
           "spec_url": ""
         },
         {
