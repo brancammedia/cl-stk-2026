@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-10-30T18:07:51.146785+00:00",
-  "updated_at_pacific": "October 30, 2026",
+  "updated_at": "2026-10-31T17:19:19.527162+00:00",
+  "updated_at_pacific": "October 31, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -416,13 +416,13 @@
           "wattage": "54/60/65",
           "category": "Strip Light",
           "subcategory": "LSFA",
-          "ontario": 256,
+          "ontario": 252,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 256,
-          "notes": "256",
+          "total": 252,
+          "notes": "252",
           "spec_url": ""
         },
         {
@@ -581,13 +581,13 @@
           "wattage": "30",
           "category": "Triproof",
           "subcategory": "Triproof",
-          "ontario": 120,
+          "ontario": 110,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 120,
-          "notes": "120",
+          "total": 110,
+          "notes": "110",
           "spec_url": ""
         },
         {
@@ -2068,11 +2068,11 @@
           "subcategory": "RHBE",
           "ontario": 1,
           "louisville": 7,
-          "phoenix": 7,
+          "phoenix": 0,
           "dallas": 86,
           "chicago": 3,
-          "total": 104,
-          "notes": "207",
+          "total": 97,
+          "notes": "193",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
