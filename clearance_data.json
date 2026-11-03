@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-02T21:52:02.825010+00:00",
-  "updated_at_pacific": "November 02, 2026",
+  "updated_at": "2026-11-03T19:43:07.184914+00:00",
+  "updated_at_pacific": "November 03, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1046,13 +1046,13 @@
           "wattage": "",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP8",
-          "ontario": 13,
+          "ontario": 11,
           "louisville": 0,
           "phoenix": 11,
           "dallas": 0,
           "chicago": 57,
-          "total": 81,
-          "notes": "149",
+          "total": 79,
+          "notes": "147",
           "spec_url": ""
         },
         {
@@ -1452,12 +1452,12 @@
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
           "ontario": 6,
-          "louisville": 8,
+          "louisville": 4,
           "phoenix": 0,
           "dallas": 5,
           "chicago": 0,
-          "total": 19,
-          "notes": "32",
+          "total": 15,
+          "notes": "24",
           "spec_url": ""
         },
         {
@@ -2055,9 +2055,9 @@
           "louisville": 53,
           "phoenix": 28,
           "dallas": 125,
-          "chicago": 22,
-          "total": 246,
-          "notes": "474",
+          "chicago": 4,
+          "total": 228,
+          "notes": "438",
           "spec_url": ""
         },
         {
