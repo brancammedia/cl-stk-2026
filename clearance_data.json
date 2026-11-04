@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-03T19:43:07.184914+00:00",
-  "updated_at_pacific": "November 03, 2026",
+  "updated_at": "2026-11-04T19:57:41.875859+00:00",
+  "updated_at_pacific": "November 04, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1244,10 +1244,10 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 22,
+          "dallas": 20,
           "chicago": 13,
-          "total": 35,
-          "notes": "70",
+          "total": 33,
+          "notes": "66",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-r-12i-22w-3cct.pdf"
         },
         {
@@ -1679,10 +1679,10 @@
           "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
-          "dallas": 22,
+          "dallas": 20,
           "chicago": 13,
-          "total": 35,
-          "notes": "70",
+          "total": 33,
+          "notes": "66",
           "spec_url": ""
         },
         {
@@ -2126,13 +2126,13 @@
           "wattage": "",
           "category": "Canopy",
           "subcategory": "",
-          "ontario": 185,
-          "louisville": 29,
+          "ontario": 166,
+          "louisville": 20,
           "phoenix": 30,
           "dallas": 20,
           "chicago": 0,
-          "total": 264,
-          "notes": "343",
+          "total": 236,
+          "notes": "306",
           "spec_url": ""
         },
         {
@@ -2202,12 +2202,12 @@
           "category": "Wall Pack",
           "subcategory": "Wall Pack",
           "ontario": 0,
-          "louisville": 22,
-          "phoenix": 6,
+          "louisville": 0,
+          "phoenix": 3,
           "dallas": 0,
           "chicago": 1,
-          "total": 29,
-          "notes": "58",
+          "total": 4,
+          "notes": "8",
           "spec_url": ""
         },
         {
@@ -2276,13 +2276,13 @@
           "wattage": "30",
           "category": "Tubes",
           "subcategory": "Integrated Tube",
-          "ontario": 134,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 134,
-          "notes": "134",
+          "total": 0,
+          "notes": "0",
           "spec_url": ""
         },
         {
