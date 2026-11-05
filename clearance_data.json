@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-04T19:57:41.875859+00:00",
-  "updated_at_pacific": "November 04, 2026",
+  "updated_at": "2026-11-05T20:11:40.151380+00:00",
+  "updated_at_pacific": "November 05, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1256,13 +1256,13 @@
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 20,
+          "ontario": 8,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 20,
-          "notes": "20",
+          "total": 8,
+          "notes": "8",
           "spec_url": ""
         },
         {
@@ -1691,13 +1691,13 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 316,
+          "ontario": 304,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 316,
-          "notes": "316",
+          "total": 304,
+          "notes": "304",
           "spec_url": ""
         },
         {
@@ -2203,9 +2203,9 @@
           "subcategory": "Wall Pack",
           "ontario": 0,
           "louisville": 0,
-          "phoenix": 3,
+          "phoenix": 4,
           "dallas": 0,
-          "chicago": 1,
+          "chicago": 0,
           "total": 4,
           "notes": "8",
           "spec_url": ""
@@ -2246,13 +2246,13 @@
           "wattage": "40",
           "category": "Tubes",
           "subcategory": "Bypass Tube (Type B)",
-          "ontario": 449,
+          "ontario": 409,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 449,
-          "notes": "449",
+          "total": 409,
+          "notes": "409",
           "spec_url": ""
         },
         {
@@ -2291,13 +2291,13 @@
           "wattage": "60",
           "category": "Tubes",
           "subcategory": "Integrated Tube",
-          "ontario": 1983,
+          "ontario": 1955,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1983,
-          "notes": "1,983",
+          "total": 1955,
+          "notes": "1,955",
           "spec_url": ""
         },
         {
