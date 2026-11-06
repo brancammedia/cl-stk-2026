@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-05T20:11:40.151380+00:00",
-  "updated_at_pacific": "November 05, 2026",
+  "updated_at": "2026-11-06T19:37:39.603753+00:00",
+  "updated_at_pacific": "November 06, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -566,13 +566,13 @@
           "wattage": "200",
           "category": "CLVS Vapor-Seal",
           "subcategory": "CLVS-WD",
-          "ontario": 93,
+          "ontario": 87,
           "louisville": 17,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 9,
-          "total": 119,
-          "notes": "145",
+          "total": 113,
+          "notes": "139",
           "spec_url": ""
         },
         {
@@ -851,13 +851,13 @@
           "wattage": "",
           "category": "Troffer W/ EM",
           "subcategory": "Troffer W/ EM",
-          "ontario": 507,
+          "ontario": 498,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 46,
-          "total": 553,
-          "notes": "599",
+          "total": 544,
+          "notes": "590",
           "spec_url": ""
         },
         {
@@ -1124,10 +1124,10 @@
           "ontario": 0,
           "louisville": 5,
           "phoenix": 1,
-          "dallas": 31,
+          "dallas": 19,
           "chicago": 24,
-          "total": 61,
-          "notes": "122",
+          "total": 49,
+          "notes": "98",
           "spec_url": ""
         },
         {
@@ -1481,13 +1481,13 @@
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Round)",
-          "ontario": 3,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 3,
-          "notes": "3",
+          "total": 0,
+          "notes": "0",
           "spec_url": ""
         },
         {
@@ -1556,13 +1556,13 @@
           "wattage": "22",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light",
-          "ontario": 2147,
+          "ontario": 2146,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 2147,
-          "notes": "2,147",
+          "total": 2146,
+          "notes": "2,146",
           "spec_url": "https://portorlighting.com/media/tariff/pt-ddl-8i-22w-5cct.pdf"
         },
         {
