@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-06T19:37:39.603753+00:00",
-  "updated_at_pacific": "November 06, 2026",
+  "updated_at": "2026-11-07T17:49:12.191396+00:00",
+  "updated_at_pacific": "November 07, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1166,13 +1166,13 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 229,
+          "ontario": 227,
           "louisville": 81,
           "phoenix": 42,
           "dallas": 0,
           "chicago": 61,
-          "total": 413,
-          "notes": "597",
+          "total": 411,
+          "notes": "595",
           "spec_url": ""
         },
         {
@@ -1196,13 +1196,13 @@
           "wattage": "N/A",
           "category": "Panel - Backlit Fixture",
           "subcategory": "Surface Mount",
-          "ontario": 13,
+          "ontario": 11,
           "louisville": 0,
           "phoenix": 10,
           "dallas": 15,
           "chicago": 60,
-          "total": 98,
-          "notes": "183",
+          "total": 96,
+          "notes": "181",
           "spec_url": ""
         },
         {
