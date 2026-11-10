@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-09T22:37:49.300408+00:00",
-  "updated_at_pacific": "November 09, 2026",
+  "updated_at": "2026-11-10T19:55:11.861127+00:00",
+  "updated_at_pacific": "November 10, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -941,13 +941,13 @@
           "wattage": "25W-30W-40W",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP4",
-          "ontario": 62,
+          "ontario": 58,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 62,
-          "notes": "62",
+          "total": 58,
+          "notes": "58",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp4-22-3cp-em.pdf"
         },
         {
@@ -1001,13 +1001,13 @@
           "wattage": "25/30/40",
           "category": "Panel - Backlit Fixture",
           "subcategory": "BLP6",
-          "ontario": 1,
+          "ontario": 0,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 1,
-          "notes": "1",
+          "total": 0,
+          "notes": "0",
           "spec_url": "https://portorlighting.com/media/tariff/pt-blp6-14-3cp.pdf"
         },
         {
