@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-10T19:55:11.861127+00:00",
-  "updated_at_pacific": "November 10, 2026",
+  "updated_at": "2026-11-11T19:47:43.340694+00:00",
+  "updated_at_pacific": "November 11, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -536,13 +536,13 @@
           "wattage": "",
           "category": "Vaportight",
           "subcategory": "Vapor Tight",
-          "ontario": 106,
+          "ontario": 53,
           "louisville": 13,
           "phoenix": 0,
           "dallas": 21,
           "chicago": 0,
-          "total": 140,
-          "notes": "174",
+          "total": 87,
+          "notes": "121",
           "spec_url": ""
         },
         {
@@ -1691,13 +1691,13 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 304,
+          "ontario": 300,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 304,
-          "notes": "304",
+          "total": 300,
+          "notes": "300",
           "spec_url": ""
         },
         {
@@ -2051,13 +2051,13 @@
           "wattage": "210W",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 18,
+          "ontario": 17,
           "louisville": 53,
           "phoenix": 28,
           "dallas": 125,
           "chicago": 4,
-          "total": 228,
-          "notes": "438",
+          "total": 227,
+          "notes": "437",
           "spec_url": ""
         },
         {
