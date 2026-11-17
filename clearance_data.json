@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-16T22:26:06.223528+00:00",
-  "updated_at_pacific": "November 16, 2026",
+  "updated_at": "2026-11-17T21:14:12.192745+00:00",
+  "updated_at_pacific": "November 17, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -176,13 +176,13 @@
           "wattage": "N/A",
           "category": "Area Light",
           "subcategory": "AL1",
-          "ontario": 30,
+          "ontario": 29,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 30,
-          "notes": "30",
+          "total": 29,
+          "notes": "29",
           "spec_url": ""
         },
         {
@@ -791,13 +791,13 @@
           "wattage": "80",
           "category": "Triproof",
           "subcategory": "Triproof",
-          "ontario": 0,
+          "ontario": 1,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 0,
-          "notes": "0",
+          "total": 1,
+          "notes": "1",
           "spec_url": ""
         },
         {
@@ -1691,13 +1691,13 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 300,
+          "ontario": 298,
           "louisville": 0,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 300,
-          "notes": "300",
+          "total": 298,
+          "notes": "298",
           "spec_url": ""
         },
         {
@@ -1706,13 +1706,13 @@
           "wattage": "10",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight",
-          "ontario": 13,
+          "ontario": 11,
           "louisville": 57,
           "phoenix": 0,
           "dallas": 9,
           "chicago": 0,
-          "total": 79,
-          "notes": "145",
+          "total": 77,
+          "notes": "143",
           "spec_url": ""
         },
         {
@@ -2054,10 +2054,10 @@
           "ontario": 8,
           "louisville": 53,
           "phoenix": 28,
-          "dallas": 125,
+          "dallas": 0,
           "chicago": 4,
-          "total": 218,
-          "notes": "428",
+          "total": 93,
+          "notes": "178",
           "spec_url": ""
         },
         {
@@ -2069,10 +2069,10 @@
           "ontario": 1,
           "louisville": 7,
           "phoenix": 0,
-          "dallas": 86,
+          "dallas": 81,
           "chicago": 3,
-          "total": 97,
-          "notes": "193",
+          "total": 92,
+          "notes": "183",
           "spec_url": "https://portorlighting.com/media/tariff/pt-flm1-15w-3k-ub.pdf"
         },
         {
