@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-20T20:38:44.962029+00:00",
-  "updated_at_pacific": "November 20, 2026",
+  "updated_at": "2026-11-21T19:39:52.270751+00:00",
+  "updated_at_pacific": "November 21, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1601,13 +1601,13 @@
           "wattage": "15",
           "category": "Limited Stock - Downlight",
           "subcategory": "Disk Light Gen 2",
-          "ontario": 1,
+          "ontario": 0,
           "louisville": 8,
           "phoenix": 0,
           "dallas": 5,
           "chicago": 0,
-          "total": 14,
-          "notes": "27",
+          "total": 13,
+          "notes": "26",
           "spec_url": ""
         },
         {
@@ -2051,13 +2051,13 @@
           "wattage": "210W",
           "category": "Linear High Bay",
           "subcategory": "LHB",
-          "ontario": 8,
+          "ontario": 5,
           "louisville": 53,
           "phoenix": 28,
           "dallas": 0,
           "chicago": 4,
-          "total": 93,
-          "notes": "178",
+          "total": 90,
+          "notes": "175",
           "spec_url": ""
         },
         {
