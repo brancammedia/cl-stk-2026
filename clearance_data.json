@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-11-24T22:40:41.840715+00:00",
-  "updated_at_pacific": "November 24, 2026",
+  "updated_at": "2026-11-25T21:55:19.618880+00:00",
+  "updated_at_pacific": "November 25, 2026",
   "tabs": {
     "clearance": {
       "name": "Clearance Stock",
@@ -1511,13 +1511,13 @@
           "wattage": "18",
           "category": "Limited Stock - Downlight",
           "subcategory": "Surface Mount Downlight (Square)",
-          "ontario": 314,
+          "ontario": 249,
           "louisville": 40,
           "phoenix": 0,
           "dallas": 0,
           "chicago": 0,
-          "total": 354,
-          "notes": "394",
+          "total": 289,
+          "notes": "329",
           "spec_url": "https://portorlighting.com/media/tariff/pt-dlsm-s-9i-18w-3cct.pdf"
         },
         {
